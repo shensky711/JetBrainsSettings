@@ -1,0 +1,23 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="ADD_IMPORTS_ON_PASTE" value="1" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <option name="JSP_ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
+  <component name="MarkdownFoldingSettings">
+    <option name="COLLAPSE_VERBATIM_BLOCKS" value="true" />
+    <option name="COLLAPSE_CODE_FENCE_BLOCKS" value="true" />
+    <option name="COLLAPSE_EXPLICIT_LINKS" value="true" />
+    <option name="COLLAPSE_MULTILINE_URL_IMAGES" value="true" />
+    <option name="COLLAPSE_JEKYLL_FRONT_MATTER" value="true" />
+    <option name="COLLAPSE_HEADINGS_1" value="true" />
+    <option name="COLLAPSE_HEADINGS_2" value="true" />
+    <option name="COLLAPSE_HEADINGS_3" value="true" />
+    <option name="COLLAPSE_HEADINGS_4" value="true" />
+    <option name="COLLAPSE_HEADINGS_5" value="true" />
+    <option name="COLLAPSE_HEADINGS_6" value="true" />
+    <option name="COLLAPSE_LIST_ITEMS" value="true" />
+    <option name="COMMENTS" value="true" />
+  </component>
+</application>
