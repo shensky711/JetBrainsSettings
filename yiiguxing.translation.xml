@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Metrics" />
+      <item value="zygote" />
       <item value="Detach" />
       <item value="mDetach" />
       <item value="obsolete" />
@@ -49,8 +51,6 @@
       <item value="条款展示" />
       <item value="隐私" />
       <item value="policy" />
-      <item value="Privacy" />
-      <item value="Dummy" />
     </histories>
     <option name="languageScores">
       <map>
