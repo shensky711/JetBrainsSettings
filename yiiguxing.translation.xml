@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dark mode" />
+      <item value="compat" />
+      <item value="implement" />
       <item value="Critical" />
       <item value="fingerprint" />
       <item value="valid" />
@@ -48,9 +51,6 @@
       <item value="协议" />
       <item value="部分" />
       <item value="tips" />
-      <item value="不能同时为空" />
-      <item value="用户协议" />
-      <item value="隐私政策" />
     </histories>
     <option name="languageScores">
       <map>
