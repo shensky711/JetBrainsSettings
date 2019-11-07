@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="yields" />
       <item value="Always assign focus if a focusable View is available" />
       <item value="assign" />
       <item value="Migrator" />
@@ -50,7 +51,6 @@
       <item value="quiet" />
       <item value="自己看代码" />
       <item value="看代码" />
-      <item value="UserAwareController" />
     </histories>
     <option name="languageScores">
       <map>
