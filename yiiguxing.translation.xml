@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prediction" />
+      <item value="salt" />
       <item value="alongside" />
       <item value="exempted" />
       <item value="yields" />
@@ -49,8 +51,6 @@
       <item value="consent" />
       <item value="container" />
       <item value="trampoline" />
-      <item value="pruning" />
-      <item value="quiet" />
     </histories>
     <option name="languageScores">
       <map>
