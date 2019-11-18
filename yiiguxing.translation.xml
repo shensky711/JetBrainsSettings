@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Temporary" />
+      <item value="Companion" />
       <item value="Insensitive" />
       <item value="infra" />
       <item value="Recipient" />
@@ -49,8 +51,6 @@
       <item value="absorbed" />
       <item value="compilation" />
       <item value="binder" />
-      <item value="Metrics" />
-      <item value="zygote" />
     </histories>
     <option name="languageScores">
       <map>
