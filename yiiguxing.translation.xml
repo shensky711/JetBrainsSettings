@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="slop " />
+      <item value="slop area" />
+      <item value="slop" />
       <item value="Compose" />
       <item value="role" />
       <item value="particular" />
@@ -48,9 +51,6 @@
       <item value="Critical" />
       <item value="fingerprint" />
       <item value="valid" />
-      <item value="privilege" />
-      <item value="private" />
-      <item value="privileged" />
     </histories>
     <option name="languageScores">
       <map>
