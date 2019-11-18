@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="particular" />
       <item value="Temporary" />
       <item value="Companion" />
       <item value="Insensitive" />
@@ -50,7 +51,6 @@
       <item value="privileged" />
       <item value="absorbed" />
       <item value="compilation" />
-      <item value="binder" />
     </histories>
     <option name="languageScores">
       <map>
