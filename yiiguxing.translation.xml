@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Is the enclosure free from signs of warping or swelling?" />
       <item value="slop " />
       <item value="slop area" />
       <item value="slop" />
@@ -50,7 +51,6 @@
       <item value="implement" />
       <item value="Critical" />
       <item value="fingerprint" />
-      <item value="valid" />
     </histories>
     <option name="languageScores">
       <map>
