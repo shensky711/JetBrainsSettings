@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="As a Synergy 2 user, if you'd rather give Synergy 1 Pro a try instead we'd be happy to add access to the legacy version to your account (but bear in mind that this requires more technical knowledge to configure). If you would like to choose this option, please email service@symless.com." />
       <item value="面试" />
       <item value="Grooter" />
       <item value="vertical" />
@@ -50,7 +51,6 @@
       <item value="Copying" />
       <item value="migrating" />
       <item value="dark mode" />
-      <item value="compat" />
     </histories>
     <option name="languageScores">
       <map>
