@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="irregular" />
+      <item value="represented" />
+      <item value="feasible" />
+      <item value="backwards" />
       <item value="Mux" />
       <item value="Muxer" />
       <item value="Encapsulates" />
@@ -47,10 +51,6 @@
       <item value="match against" />
       <item value="Denied" />
       <item value="拒绝权限" />
-      <item value="拒绝" />
-      <item value="biss" />
-      <item value="replacement" />
-      <item value="Warning" />
     </histories>
     <option name="languageScores">
       <map>
