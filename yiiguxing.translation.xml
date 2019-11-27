@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DASH content" />
+      <item value="DASH" />
       <item value="show" />
       <item value="irregular" />
       <item value="represented" />
@@ -49,8 +51,6 @@
       <item value="mira" />
       <item value="mirator" />
       <item value="迁移器" />
-      <item value="match against" />
-      <item value="Denied" />
     </histories>
     <option name="languageScores">
       <map>
