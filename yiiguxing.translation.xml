@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="passthrough" />
       <item value="DASH content" />
       <item value="DASH" />
       <item value="show" />
@@ -50,7 +51,6 @@
       <item value="mirage" />
       <item value="mira" />
       <item value="mirator" />
-      <item value="迁移器" />
     </histories>
     <option name="languageScores">
       <map>
