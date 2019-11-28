@@ -11,7 +11,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.frag</mask>
-    <mask>*.json</mask>
     <mask>*.cpp</mask>
     <mask>*.glsl</mask>
     <mask>*.mk</mask>
@@ -21,6 +20,7 @@
     <mask>*.gradle</mask>
     <mask>*.c</mask>
     <mask>*.java</mask>
+    <mask>*.json</mask>
     <mask>*.xml</mask>
   </component>
 </application>
