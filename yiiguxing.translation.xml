@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A Camera with perspective projection." />
+      <item value="A camera with orthographic projection." />
+      <item value="orthographic" />
+      <item value="perspective" />
+      <item value="平行投影" />
+      <item value="Orthographic" />
       <item value="毫秒微秒nai'ao" />
       <item value="毫秒微秒" />
       <item value="毫秒" />
@@ -45,17 +51,11 @@
       <item value="represented" />
       <item value="feasible" />
       <item value="backwards" />
-      <item value="Mux" />
-      <item value="Muxer" />
-      <item value="Encapsulates" />
-      <item value="Retriever" />
-      <item value="compressed" />
-      <item value="broad" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="167" />
+        <entry key="ENGLISH" value="168" />
       </map>
     </option>
   </component>
