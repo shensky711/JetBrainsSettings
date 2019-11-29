@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="毫秒微秒nai'ao" />
+      <item value="毫秒微秒" />
+      <item value="毫秒" />
+      <item value="us" />
+      <item value="微秒" />
+      <item value="微妙" />
       <item value="out of duration" />
       <item value="interpolated" />
       <item value="时间终点" />
@@ -45,17 +51,11 @@
       <item value="Retriever" />
       <item value="compressed" />
       <item value="broad" />
-      <item value="Sponsor" />
-      <item value="As a Synergy 2 user, if you'd rather give Synergy 1 Pro a try instead we'd be happy to add access to the legacy version to your account (but bear in mind that this requires more technical knowledge to configure). If you would like to choose this option, please email service@symless.com." />
-      <item value="面试" />
-      <item value="Grooter" />
-      <item value="vertical" />
-      <item value="Is the enclosure free from signs of warping or swelling?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="165" />
+        <entry key="ENGLISH" value="167" />
       </map>
     </option>
   </component>
