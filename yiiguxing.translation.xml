@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Acquired" />
+      <item value="exceeded" />
       <item value="arbitrary" />
       <item value="ownership" />
       <item value="Preceded" />
@@ -49,8 +51,6 @@
       <item value="Dequeue" />
       <item value="Advance" />
       <item value="sample" />
-      <item value="区间" />
-      <item value="Bidirectionally" />
     </histories>
     <option name="languageScores">
       <map>
