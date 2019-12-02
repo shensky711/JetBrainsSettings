@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="arbitrary" />
+      <item value="ownership" />
       <item value="Preceded" />
       <item value="这应该是不可能的" />
       <item value="decode" />
@@ -49,8 +51,6 @@
       <item value="sample" />
       <item value="区间" />
       <item value="Bidirectionally" />
-      <item value="passthrough" />
-      <item value="DASH content" />
     </histories>
     <option name="languageScores">
       <map>
