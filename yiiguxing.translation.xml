@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dequeued" />
+      <item value="deque" />
       <item value="Generation" />
       <item value="cmblue" />
       <item value="extract" />
@@ -49,8 +51,6 @@
       <item value="流程" />
       <item value="reverse" />
       <item value="控制块" />
-      <item value="flow" />
-      <item value="timeline" />
     </histories>
     <option name="languageScores">
       <map>
