@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="拦截" />
+      <item value="拦截显示" />
+      <item value="still showing" />
+      <item value="showing" />
+      <item value="display duplication " />
+      <item value="duplication display" />
+      <item value="duplication" />
+      <item value="不重复显示" />
+      <item value="重复" />
+      <item value="重复显示" />
+      <item value="不重复插入" />
       <item value="timestamp" />
       <item value="dedicated" />
       <item value="分组风格" />
@@ -40,22 +51,11 @@
       <item value="out of duration" />
       <item value="interpolated" />
       <item value="时间终点" />
-      <item value="长度" />
-      <item value="一段时间" />
-      <item value="时间段" />
-      <item value="区域" />
-      <item value="rang" />
-      <item value="你最起码应该初始化一个" />
-      <item value="最起码初始化一个" />
-      <item value="最起码初始一个" />
-      <item value="最起码" />
-      <item value="流程线" />
-      <item value="流程图" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="173" />
+        <entry key="ENGLISH" value="176" />
       </map>
     </option>
   </component>
