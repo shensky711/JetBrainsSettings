@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="escaped" />
       <item value="拦截" />
       <item value="拦截显示" />
       <item value="still showing" />
@@ -50,7 +51,6 @@
       <item value="微妙" />
       <item value="out of duration" />
       <item value="interpolated" />
-      <item value="时间终点" />
     </histories>
     <option name="languageScores">
       <map>
