@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="carrier" />
       <item value="dimension" />
       <item value="transpose" />
       <item value="Update the texture image to the most recent frame from the image stream" />
@@ -50,7 +51,6 @@
       <item value="毫秒微秒nai'ao" />
       <item value="毫秒微秒" />
       <item value="毫秒" />
-      <item value="us" />
     </histories>
     <option name="languageScores">
       <map>
