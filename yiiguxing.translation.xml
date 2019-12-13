@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inner" />
+      <item value="outer" />
+      <item value="outter" />
+      <item value="visually" />
+      <item value="convex hull" />
+      <item value="hull" />
+      <item value="convex" />
       <item value="LEGACY" />
       <item value="描边" />
       <item value="carrier" />
@@ -44,13 +51,6 @@
       <item value="不是" />
       <item value="is't me" />
       <item value="is't" />
-      <item value="A Camera with perspective projection." />
-      <item value="A camera with orthographic projection." />
-      <item value="orthographic" />
-      <item value="perspective" />
-      <item value="平行投影" />
-      <item value="Orthographic" />
-      <item value="毫秒微秒nai'ao" />
     </histories>
     <option name="languageScores">
       <map>
