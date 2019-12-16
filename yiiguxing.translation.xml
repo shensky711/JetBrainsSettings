@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sampePoint" />
+      <item value="采样点" />
+      <item value="取样" />
+      <item value="单层" />
+      <item value="optimize" />
+      <item value="视觉优化器" />
+      <item value="优化器" />
+      <item value="美化器" />
+      <item value="美化" />
+      <item value="wrapped" />
+      <item value="已经包装" />
+      <item value="wraped" />
+      <item value="wrap" />
+      <item value="Candidate" />
       <item value="represent" />
       <item value="We first calculate the convex hull of the visible portion of the icon." />
       <item value="inner" />
@@ -37,25 +51,11 @@
       <item value="Generation" />
       <item value="cmblue" />
       <item value="extract" />
-      <item value="Extract" />
-      <item value="临时" />
-      <item value="文档" />
-      <item value="Resident" />
-      <item value="fence" />
-      <item value="Encapsulates" />
-      <item value="Acquired" />
-      <item value="exceeded" />
-      <item value="arbitrary" />
-      <item value="ownership" />
-      <item value="Preceded" />
-      <item value="这应该是不可能的" />
-      <item value="decode" />
-      <item value="不是" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="177" />
+        <entry key="ENGLISH" value="182" />
       </map>
     </option>
   </component>
