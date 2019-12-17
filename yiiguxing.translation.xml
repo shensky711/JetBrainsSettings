@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mutable" />
       <item value="描边大小" />
       <item value="sampePoint" />
       <item value="采样点" />
@@ -50,7 +51,6 @@
       <item value="dequeued" />
       <item value="deque" />
       <item value="Generation" />
-      <item value="cmblue" />
     </histories>
     <option name="languageScores">
       <map>
