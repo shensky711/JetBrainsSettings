@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reclaimed" />
+      <item value="occurs" />
       <item value="mutable" />
       <item value="描边大小" />
       <item value="sampePoint" />
@@ -49,8 +51,6 @@
       <item value="dedicated" />
       <item value="分组风格" />
       <item value="dequeued" />
-      <item value="deque" />
-      <item value="Generation" />
     </histories>
     <option name="languageScores">
       <map>
