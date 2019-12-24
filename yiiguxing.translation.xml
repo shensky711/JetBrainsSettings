@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="planar" />
+      <item value="Remain" />
       <item value="follow up" />
       <item value="subset" />
       <item value="reclaimed" />
@@ -49,8 +51,6 @@
       <item value="重复" />
       <item value="重复显示" />
       <item value="不重复插入" />
-      <item value="timestamp" />
-      <item value="dedicated" />
     </histories>
     <option name="languageScores">
       <map>
