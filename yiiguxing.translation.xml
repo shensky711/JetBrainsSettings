@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Quadratic" />
       <item value="scattered" />
       <item value="散射光" />
       <item value="发散" />
@@ -50,7 +51,6 @@
       <item value="still showing" />
       <item value="showing" />
       <item value="display duplication " />
-      <item value="duplication display" />
     </histories>
     <option name="languageScores">
       <map>
