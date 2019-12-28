@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="evalCOmm" />
+      <item value="eval" />
+      <item value="alias" />
       <item value="command" />
       <item value="abbreviation" />
       <item value="Quadratic" />
@@ -48,9 +51,6 @@
       <item value="Update the texture image to the most recent frame from the image stream" />
       <item value="freelancer" />
       <item value="escaped" />
-      <item value="拦截" />
-      <item value="拦截显示" />
-      <item value="still showing" />
     </histories>
     <option name="languageScores">
       <map>
