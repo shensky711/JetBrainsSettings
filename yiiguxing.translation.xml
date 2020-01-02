@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="identity matrix" />
+      <item value="identity" />
       <item value="front depth" />
       <item value="angle" />
       <item value="stereo" />
@@ -49,8 +51,6 @@
       <item value="outer" />
       <item value="outter" />
       <item value="visually" />
-      <item value="convex hull" />
-      <item value="hull" />
     </histories>
     <option name="languageScores">
       <map>
