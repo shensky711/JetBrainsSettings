@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="front depth" />
       <item value="angle" />
       <item value="stereo" />
       <item value="radians" />
@@ -50,7 +51,6 @@
       <item value="visually" />
       <item value="convex hull" />
       <item value="hull" />
-      <item value="convex" />
     </histories>
     <option name="languageScores">
       <map>
