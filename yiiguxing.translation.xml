@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fel" />
+      <item value="FelScript" />
+      <item value="FelScriptEngine" />
       <item value="Orientation" />
       <item value="concatenate" />
       <item value="// Integrate around this axis with the angular speed by the time step      *              // in order to get a delta rotation from this sample over the time step      *              // We will convert this axis-angle representation of the delta rotation      *              // into a quaternion before turning it into the rotation matrix." />
@@ -48,9 +51,6 @@
       <item value="取样" />
       <item value="单层" />
       <item value="optimize" />
-      <item value="视觉优化器" />
-      <item value="优化器" />
-      <item value="美化器" />
     </histories>
     <option name="languageScores">
       <map>
