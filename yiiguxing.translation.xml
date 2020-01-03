@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cube" />
       <item value="Fel" />
       <item value="FelScript" />
       <item value="FelScriptEngine" />
@@ -50,7 +51,6 @@
       <item value="采样点" />
       <item value="取样" />
       <item value="单层" />
-      <item value="optimize" />
     </histories>
     <option name="languageScores">
       <map>
