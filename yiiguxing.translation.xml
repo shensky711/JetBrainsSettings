@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Orientation" />
+      <item value="concatenate" />
+      <item value="// Integrate around this axis with the angular speed by the time step      *              // in order to get a delta rotation from this sample over the time step      *              // We will convert this axis-angle representation of the delta rotation      *              // into a quaternion before turning it into the rotation matrix." />
+      <item value="EPSILON" />
+      <item value="omega" />
+      <item value="omega Magnitude" />
+      <item value="omegaMagnitude" />
+      <item value="Typically the output of the gyroscope is integrated over time to      * calculate a rotation describing the change of angles over the time step," />
+      <item value="Calibrated" />
+      <item value="proximity" />
       <item value="ORIENTATION" />
       <item value="rate" />
       <item value="identity matrix" />
@@ -41,16 +51,6 @@
       <item value="视觉优化器" />
       <item value="优化器" />
       <item value="美化器" />
-      <item value="美化" />
-      <item value="wrapped" />
-      <item value="已经包装" />
-      <item value="wraped" />
-      <item value="wrap" />
-      <item value="Candidate" />
-      <item value="represent" />
-      <item value="We first calculate the convex hull of the visible portion of the icon." />
-      <item value="inner" />
-      <item value="outer" />
     </histories>
     <option name="languageScores">
       <map>
