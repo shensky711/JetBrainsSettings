@@ -1,13 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="坐标" />
       <item value="multiply" />
       <item value="Rotate" />
       <item value="旋转" />
       <item value="转到" />
       <item value="Rotation" />
       <item value="Orientation" />
-      <item value="坐标" />
       <item value="rotationCurrent" />
       <item value="omegaMagnitude" />
       <item value="Normalize" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="188" />
+        <entry key="ENGLISH" value="189" />
       </map>
     </option>
   </component>
