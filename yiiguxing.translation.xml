@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="eased" />
       <item value="consumption" />
       <item value="reducing" />
       <item value="Identity" />
@@ -50,7 +51,6 @@
       <item value="evalCOmm" />
       <item value="eval" />
       <item value="alias" />
-      <item value="command" />
     </histories>
     <option name="languageScores">
       <map>
