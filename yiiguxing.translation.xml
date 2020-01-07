@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Identity" />
       <item value="坐标" />
       <item value="multiply" />
       <item value="Rotate" />
@@ -50,7 +51,6 @@
       <item value="command" />
       <item value="abbreviation" />
       <item value="Quadratic" />
-      <item value="scattered" />
     </histories>
     <option name="languageScores">
       <map>
