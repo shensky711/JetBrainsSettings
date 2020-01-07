@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="consumption" />
+      <item value="reducing" />
       <item value="Identity" />
       <item value="坐标" />
       <item value="multiply" />
@@ -49,8 +51,6 @@
       <item value="eval" />
       <item value="alias" />
       <item value="command" />
-      <item value="abbreviation" />
-      <item value="Quadratic" />
     </histories>
     <option name="languageScores">
       <map>
