@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deactivate" />
+      <item value="不激活" />
+      <item value="disactivate" />
+      <item value="激活" />
       <item value="运动停止" />
       <item value="静止" />
       <item value="pending" />
@@ -47,15 +51,11 @@
       <item value="quaternion" />
       <item value="algorithm" />
       <item value="fusion" />
-      <item value="The correction is a static weight" />
-      <item value="Cube" />
-      <item value="Fel" />
-      <item value="FelScript" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="201" />
+        <entry key="ENGLISH" value="203" />
       </map>
     </option>
   </component>
