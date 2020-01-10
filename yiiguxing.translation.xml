@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Disable" />
+      <item value="circular" />
       <item value="Square" />
       <item value="precedence" />
       <item value="Contrast" />
@@ -49,8 +51,6 @@
       <item value="Orientation" />
       <item value="rotationCurrent" />
       <item value="omegaMagnitude" />
-      <item value="Normalize" />
-      <item value="angular" />
     </histories>
     <option name="languageScores">
       <map>
