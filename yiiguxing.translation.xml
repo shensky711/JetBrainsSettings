@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="有效的" />
+      <item value="有效" />
+      <item value="SIMULTANEOUSLY" />
+      <item value="自定义壁纸" />
       <item value="打点" />
       <item value="OPAQUE" />
       <item value="isOpaque" />
@@ -47,15 +51,11 @@
       <item value="eased" />
       <item value="consumption" />
       <item value="reducing" />
-      <item value="Identity" />
-      <item value="坐标" />
-      <item value="multiply" />
-      <item value="Rotate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="206" />
+        <entry key="ENGLISH" value="208" />
       </map>
     </option>
   </component>
