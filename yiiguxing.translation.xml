@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="frequency" />
+      <item value="pertinent" />
       <item value="throttling" />
       <item value="Aware" />
       <item value="desirable" />
@@ -49,8 +51,6 @@
       <item value="EPSILON" />
       <item value="系数" />
       <item value="factor" />
-      <item value="比例" />
-      <item value="缩放" />
     </histories>
     <option name="languageScores">
       <map>
