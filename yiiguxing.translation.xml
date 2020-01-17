@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Aware" />
       <item value="desirable" />
       <item value="delta" />
       <item value="First off, this rule does not indicate a general problem in the code - volatile is a perfectly fine keyword, and there is nothing wrong with it. That's why it's a controversial rule.  On the other hand, using it is indeed a bit of an advanced technique that requires you to know what you are doing. Situations exist where you would know that, let's say, the people who will maintain your code will not have sufficient Java knowledge. In such cases, the rule may make sense.  To satisfy the rule in your case" />
@@ -50,7 +51,6 @@
       <item value="比例" />
       <item value="缩放" />
       <item value="fraction" />
-      <item value="缩小比例" />
     </histories>
     <option name="languageScores">
       <map>
