@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="chimneys" />
+      <item value="Annually" />
       <item value="regulation" />
       <item value="radio" />
       <item value="Radio" />
@@ -49,8 +51,6 @@
       <item value="不激活" />
       <item value="disactivate" />
       <item value="激活" />
-      <item value="运动停止" />
-      <item value="静止" />
     </histories>
     <option name="languageScores">
       <map>
