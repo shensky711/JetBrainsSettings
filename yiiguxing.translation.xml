@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="paper" />
       <item value="redir" />
       <item value="chimneys" />
       <item value="Annually" />
@@ -50,7 +51,6 @@
       <item value="translucent" />
       <item value="deactivate" />
       <item value="不激活" />
-      <item value="disactivate" />
     </histories>
     <option name="languageScores">
       <map>
