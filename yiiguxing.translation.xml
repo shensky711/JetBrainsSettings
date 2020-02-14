@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sponsor" />
+      <item value="spon" />
       <item value="paper" />
       <item value="redir" />
       <item value="chimneys" />
@@ -49,8 +51,6 @@
       <item value="opaque" />
       <item value="透明" />
       <item value="translucent" />
-      <item value="deactivate" />
-      <item value="不激活" />
     </histories>
     <option name="languageScores">
       <map>
