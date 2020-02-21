@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Inform" />
+      <item value="告知" />
+      <item value="权限告知" />
+      <item value="权限行为告知" />
+      <item value="温馨提示" />
+      <item value="ignore" />
       <item value="implicit" />
       <item value="Decentralized" />
       <item value="口罩" />
@@ -45,17 +51,11 @@
       <item value="有效" />
       <item value="SIMULTANEOUSLY" />
       <item value="自定义壁纸" />
-      <item value="打点" />
-      <item value="OPAQUE" />
-      <item value="isOpaque" />
-      <item value="explicit" />
-      <item value="任何" />
-      <item value="anway" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="213" />
+        <entry key="ENGLISH" value="214" />
       </map>
     </option>
   </component>
