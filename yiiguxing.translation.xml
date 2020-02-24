@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Normalize" />
+      <item value="例子" />
+      <item value="sample" />
       <item value="为提供基本服务，本应用需调用以下敏感行为" />
       <item value="同意" />
       <item value="不同意" />
@@ -48,14 +51,11 @@
       <item value="discouraged" />
       <item value="参数" />
       <item value="validly" />
-      <item value="valid" />
-      <item value="有效的" />
-      <item value="验证" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="218" />
+        <entry key="ENGLISH" value="219" />
       </map>
     </option>
   </component>
