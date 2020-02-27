@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ORIENTATION_PORTRAIT" />
       <item value="intersection" />
       <item value="bump version" />
       <item value="Signal" />
@@ -50,7 +51,6 @@
       <item value="throttling" />
       <item value="Aware" />
       <item value="desirable" />
-      <item value="delta" />
     </histories>
     <option name="languageScores">
       <map>
