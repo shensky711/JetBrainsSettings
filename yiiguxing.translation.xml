@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="LOGON" />
+      <item value="conjunction" />
       <item value="ORIENTATION_PORTRAIT" />
       <item value="intersection" />
       <item value="bump version" />
@@ -49,8 +51,6 @@
       <item value="frequency" />
       <item value="pertinent" />
       <item value="throttling" />
-      <item value="Aware" />
-      <item value="desirable" />
     </histories>
     <option name="languageScores">
       <map>
