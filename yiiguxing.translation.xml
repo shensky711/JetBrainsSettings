@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="INCREASe" />
+      <item value="Decelerate" />
       <item value="最低速度" />
       <item value="decelerate" />
       <item value="降低" />
@@ -49,8 +51,6 @@
       <item value="Single" />
       <item value="muxing" />
       <item value="Repeat" />
-      <item value="Repeate" />
-      <item value="repeate" />
     </histories>
     <option name="languageScores">
       <map>
