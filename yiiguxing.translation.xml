@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="strictly" />
       <item value="prohibited" />
       <item value="长时间未点击" />
       <item value="force" />
@@ -50,7 +51,6 @@
       <item value="radio" />
       <item value="Radio" />
       <item value="Nightly" />
-      <item value="fruit" />
     </histories>
     <option name="languageScores">
       <map>
