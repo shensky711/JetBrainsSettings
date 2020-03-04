@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Kilobytes" />
       <item value="motion" />
       <item value="移动侦测" />
       <item value="yi" />
@@ -50,7 +51,6 @@
       <item value="Inform" />
       <item value="告知" />
       <item value="权限告知" />
-      <item value="权限行为告知" />
     </histories>
     <option name="languageScores">
       <map>
