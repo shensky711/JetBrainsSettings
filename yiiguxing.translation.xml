@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="aircraft carrier" />
+      <item value="carrier" />
+      <item value="aircraft" />
+      <item value="shangdong" />
       <item value="期望" />
       <item value="repository" />
       <item value="Kilobytes" />
@@ -47,10 +51,6 @@
       <item value="例子" />
       <item value="sample" />
       <item value="为提供基本服务，本应用需调用以下敏感行为" />
-      <item value="同意" />
-      <item value="不同意" />
-      <item value="portion" />
-      <item value="Inform" />
     </histories>
     <option name="languageScores">
       <map>
