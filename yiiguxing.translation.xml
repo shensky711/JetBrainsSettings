@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Prefix" />
       <item value="生产者" />
       <item value="Divisor" />
       <item value="aircraft carrier" />
@@ -50,7 +51,6 @@
       <item value="SLIM" />
       <item value="Experimental" />
       <item value="Normalize" />
-      <item value="例子" />
     </histories>
     <option name="languageScores">
       <map>
