@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MAGENTA" />
       <item value="曲线" />
       <item value="渐变壁纸" />
       <item value="constrain" />
@@ -50,7 +51,6 @@
       <item value="intersection" />
       <item value="bump version" />
       <item value="Signal" />
-      <item value="preserved" />
     </histories>
     <option name="languageScores">
       <map>
