@@ -1,24 +1,41 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="曲线" />
+      <item value=" * Computes a natural (also known as &quot;free&quot;, &quot;unclamped&quot;) cubic spline interpolation for the data set.  * &lt;p&gt;  * The {@link #interpolate(double[], double[])} method returns a {@link PolynomialSplineFunction}  * consisting of n cubic polynomials, defined over the subintervals determined by the x values,  * {@code x[0] &lt; x[i] ... &lt; x[n].}  The x values are referred to as &quot;knot points.&quot;  * &lt;p&gt;  * The value of the PolynomialSplineFunction at a point x that is greater than or equal to the smallest  * knot point and strictly less than the largest knot point is computed by finding the subinterval to which  * x belongs and computing the value of the corresponding polynomial at &lt;code&gt;x - x[i] &lt;/code&gt; where  * &lt;code&gt;i&lt;/code&gt; is the index of the subinterval.  See {@link PolynomialSplineFunction} for more details.  * &lt;/p&gt;  * &lt;p&gt;  * The interpolating polynomials satisfy: &lt;ol&gt;  * &lt;li&gt;The value of the PolynomialSplineFunction at each of the input x values equals the  *  corresponding y value.&lt;/li&gt;  * &lt;li&gt;Adjacent polynomials are equal through two derivatives at the knot points (i.e., adjacent polynomials  *  &quot;match up&quot; at the knot points, as do their first and second derivatives).&lt;/li&gt;  * &lt;/ol&gt;  * &lt;p&gt;  * The cubic spline interpolation algorithm implemented is as described in R.L. Burden, J.D. Faires,  * &lt;u&gt;Numerical Analysis&lt;/u&gt;, 4th Ed., 1989, PWS-Kent, ISBN 0-53491-585-X, pp 126-131.  * &lt;/p&gt;" />
+      <item value="Spline segment" />
+      <item value="knots" />
+      <item value="segment" />
+      <item value="delimiters" />
+      <item value="Spline segment interval delimiters." />
+      <item value="     * The coefficients of the polynomial, ordered by degree -- i.e.,      * coefficients[0] is the constant term and coefficients[n] is the      * coefficient of x^n where n is the degree of the polynomial." />
+      <item value="the degree of the polynomial." />
+      <item value="polynomial" />
+      <item value="degree" />
+      <item value="Polynomial Function" />
+      <item value="PolynomialFunction" />
+      <item value="coefficients" />
+      <item value="Polynomial Spline Function" />
+      <item value="Polynomial SplineFunction" />
+      <item value="PolynomialSplineFunction" />
+      <item value=" cubic " />
+      <item value=" cubic spline interpolation" />
+      <item value="样条曲线" />
       <item value="derivative" />
       <item value=" * Computes a natural (also known as &quot;free&quot;, &quot;unclamped&quot;) cubic spline interpolation for the data set.  * &lt;p&gt;  * The {@link #interpolate(double[], double[])} method returns a {@link PolynomialSplineFunction}  * consisting of n cubic polynomials, defined over the subintervals determined by the x values,  * {@code x[0] &lt; x[i] ... &lt; x[n].}  The x values are referred to as &quot;knot points.&quot;  * &lt;p&gt;  * The value of the PolynomialSplineFunction at a point x that is greater than or equal to the smallest  * knot point and strictly less than the largest knot point is computed by finding the subinterval to which  * x belongs and computing the value of the corresponding polynomial at &lt;code&gt;x - x[i] &lt;/code&gt; where  * &lt;code&gt;i&lt;/code&gt; is the index of the subinterval.  See {@link PolynomialSplineFunction} for more details.  * &lt;/p&gt;  * &lt;p&gt;  * The interpolating polynomials satisfy: &lt;ol&gt;  * &lt;li&gt;The value of the PolynomialSplineFunction at each of the input x values equals the  *  corresponding y value.&lt;/li&gt;  * &lt;li&gt;Adjacent polynomials are equal through two derivatives at the knot points (i.e., adjacent polynomials  *  &quot;match up&quot; at the knot points, as do their first and second derivatives).&lt;/li&gt;  * &lt;/ol&gt;  * &lt;p&gt;  * The cubic spline interpolation algorithm implemented is as described in R.L. Burden, J.D. Faires,  * &lt;u&gt;Numerical Analysis&lt;/u&gt;, 4th Ed., 1989, PWS-Kent, ISBN 0-53491-585-X, pp 126-131.  * &lt;/p&gt;  *" />
       <item value=" * Computes a cubic spline interpolation for the data set using the Akima  * algorithm, as originally formulated by Hiroshi Akima in his 1970 paper  * &quot;A New Method of Interpolation and Smooth Curve Fitting Based on Local Procedures.&quot;  * J. ACM 17, 4 (October 1970), 589-602. DOI=10.1145/321607.321609  * http://doi.acm.org/10.1145/321607.321609  * &lt;p&gt;  * This implementation is based on the Akima implementation in the CubicSpline  * class in the Math.NET Numerics library. The method referenced is  * CubicSpline.InterpolateAkimaSorted  * &lt;/p&gt;  * &lt;p&gt;  * The {@link #interpolate(double[], double[]) interpolate} method returns a  * {@link PolynomialSplineFunction} consisting of n cubic polynomials, defined  * over the subintervals determined by the x values, {@code x[0] &lt; x[i] ... &lt; x[n]}.  * The Akima algorithm requires that {@code n &gt;= 5}.  * &lt;/p&gt;" />
       <item value="Construct a polynomial with the given coefficients.  The first element of the coefficients array is the constant term.  Higher degree coefficients follow in sequence.  The degree of the resulting polynomial is the index of the last non-null element of the array, or 0 if all elements are null.  The constructor makes a copy of the input array and assigns the copy to the coefficients property" />
       <item value="* Construct a polynomial with the given coefficients. The first element * of the coefficients array is the constant term. Higher degree * coefficients follow in sequence. The degree of the resulting polynomial * is the index of the last non-null element of the array, or 0 if all elements * are null. * &lt;p&gt; * The constructor makes a copy of the input array and assigns the copy to * the coefficients property.&lt;/p&gt;" />
       <item value="    /**      * Construct a polynomial with the given coefficients.  The first element      * of the coefficients array is the constant term.  Higher degree      * coefficients follow in sequence.  The degree of the resulting polynomial      * is the index of the last non-null element of the array, or 0 if all elements      * are null.      * &lt;p&gt;      * The constructor makes a copy of the input array and assigns the copy to      * the coefficients property.&lt;/p&gt;" />
-      <item value="polynomial" />
       <item value="segments" />
       <item value="cubic" />
       <item value="polynomials" />
-      <item value="knots" />
       <item value="Spline" />
       <item value="Splines" />
       <item value="sweep" />
       <item value="lossy" />
       <item value="Lossless" />
       <item value="MAGENTA" />
-      <item value="曲线" />
       <item value="渐变壁纸" />
       <item value="constrain" />
       <item value="Prefix" />
@@ -34,28 +51,11 @@
       <item value="motion" />
       <item value="移动侦测" />
       <item value="yi" />
-      <item value="手势" />
-      <item value="Unblocker" />
-      <item value="SAMPLING" />
-      <item value="AINFO" />
-      <item value="AINFO SAMPLING" />
-      <item value="AINFO_SAMPLING" />
-      <item value="INCREASe" />
-      <item value="Decelerate" />
-      <item value="最低速度" />
-      <item value="decelerate" />
-      <item value="降低" />
-      <item value="减速中" />
-      <item value="不断提升速度" />
-      <item value="加速中" />
-      <item value="正常速度" />
-      <item value="取消激活" />
-      <item value="推进" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="235" />
+        <entry key="ENGLISH" value="237" />
       </map>
     </option>
   </component>
