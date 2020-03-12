@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lightStrength" />
+      <item value="shininess" />
+      <item value="specular" />
+      <item value="diffuse" />
+      <item value="ambient" />
+      <item value="亮度" />
+      <item value="精灵" />
+      <item value="Snapshot" />
+      <item value="不要初始化" />
+      <item value="不需要初始化" />
       <item value="随机曲线" />
       <item value="interpolate" />
       <item value="曲线" />
@@ -41,21 +51,11 @@
       <item value="渐变壁纸" />
       <item value="constrain" />
       <item value="Prefix" />
-      <item value="生产者" />
-      <item value="Divisor" />
-      <item value="aircraft carrier" />
-      <item value="carrier" />
-      <item value="aircraft" />
-      <item value="shangdong" />
-      <item value="期望" />
-      <item value="repository" />
-      <item value="Kilobytes" />
-      <item value="motion" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="238" />
+        <entry key="ENGLISH" value="241" />
       </map>
     </option>
   </component>
