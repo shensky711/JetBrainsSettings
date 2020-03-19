@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="profileable" />
       <item value="策略" />
       <item value="expect" />
       <item value="幅度" />
@@ -50,7 +51,6 @@
       <item value="cubic" />
       <item value="polynomials" />
       <item value="Spline" />
-      <item value="Splines" />
     </histories>
     <option name="languageScores">
       <map>
