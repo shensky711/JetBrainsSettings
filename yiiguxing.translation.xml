@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reasonable" />
       <item value="degrees" />
       <item value="the angle in degrees" />
       <item value=" pre-multipled " />
@@ -50,7 +51,6 @@
       <item value=" * Computes a cubic spline interpolation for the data set using the Akima  * algorithm, as originally formulated by Hiroshi Akima in his 1970 paper  * &quot;A New Method of Interpolation and Smooth Curve Fitting Based on Local Procedures.&quot;  * J. ACM 17, 4 (October 1970), 589-602. DOI=10.1145/321607.321609  * http://doi.acm.org/10.1145/321607.321609  * &lt;p&gt;  * This implementation is based on the Akima implementation in the CubicSpline  * class in the Math.NET Numerics library. The method referenced is  * CubicSpline.InterpolateAkimaSorted  * &lt;/p&gt;  * &lt;p&gt;  * The {@link #interpolate(double[], double[]) interpolate} method returns a  * {@link PolynomialSplineFunction} consisting of n cubic polynomials, defined  * over the subintervals determined by the x values, {@code x[0] &lt; x[i] ... &lt; x[n]}.  * The Akima algorithm requires that {@code n &gt;= 5}.  * &lt;/p&gt;" />
       <item value="Construct a polynomial with the given coefficients.  The first element of the coefficients array is the constant term.  Higher degree coefficients follow in sequence.  The degree of the resulting polynomial is the index of the last non-null element of the array, or 0 if all elements are null.  The constructor makes a copy of the input array and assigns the copy to the coefficients property" />
       <item value="* Construct a polynomial with the given coefficients. The first element * of the coefficients array is the constant term. Higher degree * coefficients follow in sequence. The degree of the resulting polynomial * is the index of the last non-null element of the array, or 0 if all elements * are null. * &lt;p&gt; * The constructor makes a copy of the input array and assigns the copy to * the coefficients property.&lt;/p&gt;" />
-      <item value="    /**      * Construct a polynomial with the given coefficients.  The first element      * of the coefficients array is the constant term.  Higher degree      * coefficients follow in sequence.  The degree of the resulting polynomial      * is the index of the last non-null element of the array, or 0 if all elements      * are null.      * &lt;p&gt;      * The constructor makes a copy of the input array and assigns the copy to      * the coefficients property.&lt;/p&gt;" />
     </histories>
     <option name="languageScores">
       <map>
