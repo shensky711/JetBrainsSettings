@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="degrees" />
+      <item value="the angle in degrees" />
       <item value=" pre-multipled " />
       <item value="初始" />
       <item value="曲线" />
@@ -49,8 +51,6 @@
       <item value="Construct a polynomial with the given coefficients.  The first element of the coefficients array is the constant term.  Higher degree coefficients follow in sequence.  The degree of the resulting polynomial is the index of the last non-null element of the array, or 0 if all elements are null.  The constructor makes a copy of the input array and assigns the copy to the coefficients property" />
       <item value="* Construct a polynomial with the given coefficients. The first element * of the coefficients array is the constant term. Higher degree * coefficients follow in sequence. The degree of the resulting polynomial * is the index of the last non-null element of the array, or 0 if all elements * are null. * &lt;p&gt; * The constructor makes a copy of the input array and assigns the copy to * the coefficients property.&lt;/p&gt;" />
       <item value="    /**      * Construct a polynomial with the given coefficients.  The first element      * of the coefficients array is the constant term.  Higher degree      * coefficients follow in sequence.  The degree of the resulting polynomial      * is the index of the last non-null element of the array, or 0 if all elements      * are null.      * &lt;p&gt;      * The constructor makes a copy of the input array and assigns the copy to      * the coefficients property.&lt;/p&gt;" />
-      <item value="segments" />
-      <item value="cubic" />
     </histories>
     <option name="languageScores">
       <map>
