@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="play back" />
+      <item value="重新播放" />
+      <item value="重头播放" />
+      <item value="anonymous coward" />
+      <item value="anony" />
+      <item value="anocoward" />
+      <item value="coward" />
       <item value="strength" />
       <item value="dark" />
       <item value="contrast" />
@@ -44,18 +51,11 @@
       <item value="degree" />
       <item value="Polynomial Function" />
       <item value="PolynomialFunction" />
-      <item value="coefficients" />
-      <item value="Polynomial Spline Function" />
-      <item value="Polynomial SplineFunction" />
-      <item value="PolynomialSplineFunction" />
-      <item value=" cubic " />
-      <item value=" cubic spline interpolation" />
-      <item value="样条曲线" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="248" />
+        <entry key="ENGLISH" value="249" />
       </map>
     </option>
   </component>
