@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="align" />
       <item value="play back" />
       <item value="重新播放" />
       <item value="重头播放" />
@@ -50,7 +51,6 @@
       <item value="polynomial" />
       <item value="degree" />
       <item value="Polynomial Function" />
-      <item value="PolynomialFunction" />
     </histories>
     <option name="languageScores">
       <map>
