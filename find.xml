@@ -24,5 +24,6 @@
     <mask>*.cpp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.cmake</mask>
   </component>
 </application>
