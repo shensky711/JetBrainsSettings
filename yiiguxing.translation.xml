@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="动态位置" />
+      <item value="接近" />
+      <item value="只能不断逼近" />
+      <item value="只能不断靠近" />
       <item value="实时" />
       <item value="初始位置" />
       <item value="trojan" />
@@ -47,15 +51,11 @@
       <item value="Spline segment" />
       <item value="knots" />
       <item value="segment" />
-      <item value="delimiters" />
-      <item value="Spline segment interval delimiters." />
-      <item value="     * The coefficients of the polynomial, ordered by degree -- i.e.,      * coefficients[0] is the constant term and coefficients[n] is the      * coefficient of x^n where n is the degree of the polynomial." />
-      <item value="the degree of the polynomial." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="251" />
+        <entry key="ENGLISH" value="254" />
       </map>
     </option>
   </component>
