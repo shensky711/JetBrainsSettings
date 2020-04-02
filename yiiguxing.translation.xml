@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Placeholder" />
+      <item value="占位图" />
+      <item value="placer" />
+      <item value="缩略图" />
       <item value="Two-factor" />
       <item value="redirects" />
       <item value="taken into account" />
@@ -47,15 +51,11 @@
       <item value="specular" />
       <item value="diffuse" />
       <item value="ambient" />
-      <item value="亮度" />
-      <item value="精灵" />
-      <item value="Snapshot" />
-      <item value="不要初始化" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="ENGLISH" value="256" />
       </map>
     </option>
   </component>
