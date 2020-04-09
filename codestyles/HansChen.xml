@@ -10,6 +10,7 @@
   </AndroidXmlCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="FIELD_NAME_PREFIX" value="m" />
+    <option name="USE_FQ_CLASS_NAMES" value="true" />
   </JavaCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="SMART_EDIT_TABLES" value="true" />
