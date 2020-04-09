@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="completion" />
+      <item value="恶心" />
+      <item value="只能通过反射" />
+      <item value="我们不能直接获取，只能通过反射" />
+      <item value="但我们需要的是动画的总时长" />
       <item value="meaningless" />
       <item value="Set weighted prediction method for P-frames" />
       <item value="gradient banding" />
@@ -46,16 +51,11 @@
       <item value="reasonable" />
       <item value="degrees" />
       <item value="the angle in degrees" />
-      <item value=" pre-multipled " />
-      <item value="初始" />
-      <item value="曲线" />
-      <item value="profileable" />
-      <item value="策略" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="ENGLISH" value="261" />
       </map>
     </option>
   </component>
