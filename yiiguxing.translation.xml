@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Lease" />
+      <item value="deprecatedNdkCompileLease" />
       <item value="simultaneously" />
       <item value="completion" />
       <item value="恶心" />
@@ -49,8 +51,6 @@
       <item value="contrast" />
       <item value="变暗滤镜" />
       <item value="变暗" />
-      <item value="reasonable" />
-      <item value="degrees" />
     </histories>
     <option name="languageScores">
       <map>
