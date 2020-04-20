@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* If the codec is configured in asynchronous mode, call {@link #start}      * after {@code flush} has returned to resume codec operations. The codec      * will not request input buffers until this has happened.      * &lt;strong&gt;Note, however, that there may still be outstanding {@code onOutputBufferAvailable}      * callbacks that were not handled prior to calling {@code flush}.      * The indices returned via these callbacks also become invalid upon calling {@code flush} and      * should be discarded.&lt;/strong&gt;      * &lt;p&gt;      * If the codec is configured in synchronous mode, codec will resume      * automatically if it is configured with an input surface.  Otherwise, it      * will resume when {@link #dequeueInputBuffer dequeueInputBuffer} is called." />
       <item value="it         // must always grant permissions on behalf of someone explicit." />
       <item value="Bail early if system is trying to hand out permissions directly" />
       <item value="tick " />
@@ -50,7 +51,6 @@
       <item value="只能不断靠近" />
       <item value="实时" />
       <item value="初始位置" />
-      <item value="trojan" />
     </histories>
     <option name="languageScores">
       <map>
