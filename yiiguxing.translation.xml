@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="product" />
+      <item value="produc" />
+      <item value="production" />
+      <item value="产品" />
       <item value="chatty" />
       <item value="Violation" />
       <item value="instantiate" />
@@ -47,15 +51,11 @@
       <item value="compose" />
       <item value="comp" />
       <item value="离屏渲染" />
-      <item value="Placeholder" />
-      <item value="占位图" />
-      <item value="placer" />
-      <item value="缩略图" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="267" />
+        <entry key="ENGLISH" value="268" />
       </map>
     </option>
   </component>
