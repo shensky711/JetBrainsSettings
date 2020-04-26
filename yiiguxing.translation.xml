@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Complication" />
       <item value="Violation" />
       <item value="RESTRICTED" />
       <item value="product" />
@@ -50,7 +51,6 @@
       <item value="dequeue" />
       <item value="queue" />
       <item value="compose" />
-      <item value="comp" />
     </histories>
     <option name="languageScores">
       <map>
