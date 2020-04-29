@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Vertical" />
       <item value="boxes" />
       <item value="Gauss" />
       <item value="passCount" />
@@ -50,7 +51,6 @@
       <item value="Set weighted prediction method for P-frames" />
       <item value="gradient banding" />
       <item value="gradient" />
-      <item value="retain" />
     </histories>
     <option name="languageScores">
       <map>
