@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Property" />
+      <item value="PropertyProperty" />
+      <item value="属性" />
+      <item value="Propertiy" />
+      <item value="Properti" />
+      <item value="Propertie" />
       <item value="Intensity" />
       <item value="passcount" />
       <item value="圆角半径" />
@@ -45,17 +51,11 @@
       <item value="actural" />
       <item value="FlymeFeature.IS_FRINGE_DEVICE" />
       <item value="FRINGE" />
-      <item value="防止内存泄漏" />
-      <item value="Lease" />
-      <item value="deprecatedNdkCompileLease" />
-      <item value="simultaneously" />
-      <item value="completion" />
-      <item value="恶心" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="270" />
+        <entry key="ENGLISH" value="271" />
       </map>
     </option>
   </component>
