@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="intrinsic" />
       <item value="Property" />
       <item value="PropertyProperty" />
       <item value="属性" />
@@ -50,7 +51,6 @@
       <item value="原始" />
       <item value="actural" />
       <item value="FlymeFeature.IS_FRINGE_DEVICE" />
-      <item value="FRINGE" />
     </histories>
     <option name="languageScores">
       <map>
