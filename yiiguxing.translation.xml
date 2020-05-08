@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Disclosure" />
+      <item value="wDisclosure" />
       <item value="awareness" />
       <item value="complication" />
       <item value="scenarios" />
@@ -49,8 +51,6 @@
       <item value="tick " />
       <item value="ticks count" />
       <item value="accordingly" />
-      <item value="progress" />
-      <item value="依赖" />
     </histories>
     <option name="languageScores">
       <map>
