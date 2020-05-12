@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dependent" />
       <item value="marshall" />
       <item value="Disclosure" />
       <item value="wDisclosure" />
@@ -50,7 +51,6 @@
       <item value="it         // must always grant permissions on behalf of someone explicit." />
       <item value="Bail early if system is trying to hand out permissions directly" />
       <item value="tick " />
-      <item value="ticks count" />
     </histories>
     <option name="languageScores">
       <map>
