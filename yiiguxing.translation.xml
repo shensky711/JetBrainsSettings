@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="marshaled" />
       <item value="Square" />
       <item value=" Square" />
       <item value="Central Square" />
@@ -50,7 +51,6 @@
       <item value="加入历史记录" />
       <item value="guarded" />
       <item value="Evicting" />
-      <item value="equivalent" />
     </histories>
     <option name="languageScores">
       <map>
