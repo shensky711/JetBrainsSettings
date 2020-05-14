@@ -22,8 +22,8 @@
     <mask>*.cmake</mask>
     <mask>*.frag</mask>
     <mask>*.GRADLE</mask>
-    <mask>*.xml</mask>
     <mask>*.</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
