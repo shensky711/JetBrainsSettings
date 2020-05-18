@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="permanent" />
+      <item value="abnormal" />
       <item value="this class is typically used when the service needs to use a callback to      * communicate back with the system server" />
       <item value="For cases where that's not needed" />
       <item value="represented" />
@@ -49,8 +51,6 @@
       <item value="Violation" />
       <item value="RESTRICTED" />
       <item value="product" />
-      <item value="produc" />
-      <item value="production" />
     </histories>
     <option name="languageScores">
       <map>
