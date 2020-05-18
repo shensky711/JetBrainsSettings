@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="permanently" />
+      <item value="Vulture" />
       <item value="电量" />
       <item value="marshaled" />
       <item value="Square" />
@@ -49,8 +51,6 @@
       <item value="instantiate" />
       <item value="Foreign" />
       <item value="逆向" />
-      <item value="加入历史记录" />
-      <item value="guarded" />
     </histories>
     <option name="languageScores">
       <map>
