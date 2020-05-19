@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dying" />
+      <item value="this binding to the service will remain active, and you will receive a call      * to {@link #onServiceConnected} when the Service is next running." />
+      <item value="this      * binding to the service will remain active, and you will receive a call      * to {@link #onServiceConnected} when the Service is next running." />
       <item value="PERMANENT" />
       <item value="permanent" />
       <item value="abnormal" />
@@ -48,9 +51,6 @@
       <item value="Gauss" />
       <item value="passCount" />
       <item value="vector graphics" />
-      <item value="Complication" />
-      <item value="Violation" />
-      <item value="RESTRICTED" />
     </histories>
     <option name="languageScores">
       <map>
