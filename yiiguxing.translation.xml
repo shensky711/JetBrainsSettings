@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BOUND" />
       <item value="circumstances" />
       <item value="Ordinarily" />
       <item value="Vulture" />
@@ -50,7 +51,6 @@
       <item value="controller" />
       <item value="Vertical" />
       <item value="boxes" />
-      <item value="Gauss" />
     </histories>
     <option name="languageScores">
       <map>
