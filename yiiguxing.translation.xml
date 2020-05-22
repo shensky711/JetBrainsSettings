@@ -1,9 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="publish time" />
+      <item value="publish_time" />
+      <item value="published" />
+      <item value="pulish" />
+      <item value="pulished" />
+      <item value="pulished Time" />
+      <item value="pulishedTime" />
+      <item value="发布时间" />
+      <item value="健康" />
       <item value="效率工具" />
       <item value="效率" />
-      <item value="健康" />
       <item value="Analog" />
       <item value="reference Period Start" />
       <item value="referencePeriodStart" />
@@ -43,19 +51,11 @@
       <item value="Disclosure" />
       <item value="wDisclosure" />
       <item value="awareness" />
-      <item value="complication" />
-      <item value="scenarios" />
-      <item value="optimized" />
-      <item value="intrinsic" />
-      <item value="Property" />
-      <item value="PropertyProperty" />
-      <item value="属性" />
-      <item value="Propertiy" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="274" />
+        <entry key="ENGLISH" value="276" />
       </map>
     </option>
   </component>
