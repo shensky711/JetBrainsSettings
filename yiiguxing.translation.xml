@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="效率工具" />
+      <item value="效率" />
+      <item value="健康" />
       <item value="Analog" />
       <item value="reference Period Start" />
       <item value="referencePeriodStart" />
@@ -48,14 +51,11 @@
       <item value="PropertyProperty" />
       <item value="属性" />
       <item value="Propertiy" />
-      <item value="Properti" />
-      <item value="Propertie" />
-      <item value="Intensity" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="272" />
+        <entry key="ENGLISH" value="274" />
       </map>
     </option>
   </component>
