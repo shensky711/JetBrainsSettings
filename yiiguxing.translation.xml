@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MORE" />
       <item value="Container" />
       <item value="Thumbnail" />
       <item value="Mutable" />
@@ -50,7 +51,6 @@
       <item value="Burn In Protection" />
       <item value="BurnInProtection" />
       <item value="Dependent" />
-      <item value="marshall" />
     </histories>
     <option name="languageScores">
       <map>
