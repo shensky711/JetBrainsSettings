@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="West World" />
+      <item value="west world" />
       <item value="publish" />
       <item value="category" />
       <item value="reveal" />
@@ -49,8 +51,6 @@
       <item value=" Square" />
       <item value="Central Square" />
       <item value="CentralSquare" />
-      <item value="Technical Art" />
-      <item value="Technical " />
     </histories>
     <option name="languageScores">
       <map>
