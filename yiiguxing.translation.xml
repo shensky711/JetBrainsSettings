@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="publish" />
+      <item value="category" />
       <item value="reveal" />
       <item value="MORE" />
       <item value="Container" />
@@ -49,8 +51,6 @@
       <item value="CentralSquare" />
       <item value="Technical Art" />
       <item value="Technical " />
-      <item value="Burn In Protection" />
-      <item value="BurnInProtection" />
     </histories>
     <option name="languageScores">
       <map>
