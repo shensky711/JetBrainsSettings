@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nuke" />
       <item value="West World" />
       <item value="west world" />
       <item value="publish" />
@@ -50,7 +51,6 @@
       <item value="Square" />
       <item value=" Square" />
       <item value="Central Square" />
-      <item value="CentralSquare" />
     </histories>
     <option name="languageScores">
       <map>
