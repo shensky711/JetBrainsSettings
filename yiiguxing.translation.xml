@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="saturation" />
       <item value="order" />
       <item value="exists" />
       <item value="是否存在" />
@@ -50,7 +51,6 @@
       <item value="permanent" />
       <item value="abnormal" />
       <item value="this class is typically used when the service needs to use a callback to      * communicate back with the system server" />
-      <item value="For cases where that's not needed" />
     </histories>
     <option name="languageScores">
       <map>
