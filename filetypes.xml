@@ -1,12 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="gradlew" type="PLAIN_TEXT" />
+      <mapping pattern="watch_database" type="DBN-SQL" />
       <mapping pattern="item_share_view_pager" type="PLAIN_TEXT" />
+      <mapping pattern="gradlew" type="PLAIN_TEXT" />
       <mapping ext="bp" type="PLAIN_TEXT" />
       <mapping ext="obj" type="PLAIN_TEXT" />
       <mapping ext="layout" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
