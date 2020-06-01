@@ -1,10 +1,4 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
-    <option name="ADD_IMPORTS_ON_PASTE" value="1" />
-    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-    <option name="JSP_ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-  </component>
   <component name="MarkdownFoldingSettings">
     <option name="COLLAPSE_VERBATIM_BLOCKS" value="true" />
     <option name="COLLAPSE_CODE_FENCE_BLOCKS" value="true" />
