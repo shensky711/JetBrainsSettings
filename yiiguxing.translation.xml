@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="allocation" />
+      <item value="ip address allocation" />
+      <item value="地址分配" />
+      <item value="id 分配" />
+      <item value="物资分配" />
+      <item value="assigning" />
+      <item value="layered dynamic ID assigning" />
+      <item value="分配表" />
       <item value="saturation" />
       <item value="order" />
       <item value="exists" />
@@ -43,19 +51,11 @@
       <item value="BOUND" />
       <item value="circumstances" />
       <item value="Ordinarily" />
-      <item value="Vulture" />
-      <item value="dying" />
-      <item value="this binding to the service will remain active, and you will receive a call      * to {@link #onServiceConnected} when the Service is next running." />
-      <item value="this      * binding to the service will remain active, and you will receive a call      * to {@link #onServiceConnected} when the Service is next running." />
-      <item value="PERMANENT" />
-      <item value="permanent" />
-      <item value="abnormal" />
-      <item value="this class is typically used when the service needs to use a callback to      * communicate back with the system server" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="277" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="280" />
       </map>
     </option>
   </component>
@@ -65,7 +65,6 @@
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="4e7ecd23edd56f56" />
-        <option name="appKeyConfigured" value="true" />
       </youdao-translate>
     </option>
   </component>
