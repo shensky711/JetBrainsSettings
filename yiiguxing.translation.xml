@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assign" />
+      <item value="assigned" />
+      <item value="assignedid" />
+      <item value="分配到的 id" />
+      <item value="Assignment id" />
       <item value="autogeneration" />
       <item value="自动生成" />
       <item value="Persistent" />
@@ -46,16 +51,11 @@
       <item value="Analog" />
       <item value="reference Period Start" />
       <item value="referencePeriodStart" />
-      <item value="Queries if the given {@code date} is in Daylight Saving Time in      * this time zone." />
-      <item value="Daylight" />
-      <item value="Surrounding" />
-      <item value="embed" />
-      <item value="glue" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="281" />
+        <entry key="ENGLISH" value="282" />
       </map>
     </option>
   </component>
