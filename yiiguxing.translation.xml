@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="autogeneration" />
+      <item value="自动生成" />
       <item value="Persistent" />
       <item value="allocation" />
       <item value="ip address allocation" />
@@ -49,13 +51,11 @@
       <item value="Surrounding" />
       <item value="embed" />
       <item value="glue" />
-      <item value="BOUND" />
-      <item value="circumstances" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="280" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="281" />
       </map>
     </option>
   </component>
