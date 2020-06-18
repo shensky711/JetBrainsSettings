@@ -24,7 +24,7 @@
     <mask>*.GRADLE</mask>
     <mask>*.</mask>
     <mask>*.xml</mask>
-    <mask>*.aidl</mask>
     <mask>*.java</mask>
+    <mask>*.aidl</mask>
   </component>
 </application>
