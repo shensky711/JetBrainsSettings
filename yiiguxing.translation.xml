@@ -1,15 +1,28 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="detach" />
+      <item value="assignedId" />
+      <item value="assigned id" />
+      <item value="assignedid" />
+      <item value="assigned" />
+      <item value="订阅" />
+      <item value="Subscription ID" />
+      <item value="订阅 id" />
+      <item value="订阅者 id" />
+      <item value="Subscriber" />
+      <item value="订阅者" />
+      <item value="订阅号" />
+      <item value="Registered" />
       <item value="注册 id" />
+      <item value="注册 " />
+      <item value="connecting" />
+      <item value="正在连接" />
+      <item value="detach" />
       <item value="坐标" />
       <item value="不规则热区" />
       <item value="previous" />
       <item value="上一个" />
       <item value="assign" />
-      <item value="assigned" />
-      <item value="assignedid" />
       <item value="分配到的 id" />
       <item value="Assignment id" />
       <item value="autogeneration" />
@@ -38,24 +51,11 @@
       <item value="west world" />
       <item value="publish" />
       <item value="category" />
-      <item value="reveal" />
-      <item value="MORE" />
-      <item value="Container" />
-      <item value="Thumbnail" />
-      <item value="Mutable" />
-      <item value="publish time" />
-      <item value="publish_time" />
-      <item value="published" />
-      <item value="pulish" />
-      <item value="pulished" />
-      <item value="pulished Time" />
-      <item value="pulishedTime" />
-      <item value="发布时间" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="290" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="297" />
       </map>
     </option>
   </component>
