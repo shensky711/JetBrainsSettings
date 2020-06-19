@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="destructively" />
       <item value="更换设置" />
       <item value="更换表盘" />
       <item value="切换表盘" />
@@ -50,12 +51,11 @@
       <item value="Forwarder" />
       <item value="particular" />
       <item value="nuke" />
-      <item value="West World" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="298" />
+        <entry key="ENGLISH" value="299" />
       </map>
     </option>
   </component>
