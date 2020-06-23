@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="把所有设置为空" />
+      <item value="把所有置为空" />
       <item value="destructively" />
       <item value="更换设置" />
       <item value="更换表盘" />
@@ -49,13 +51,11 @@
       <item value="conjunction" />
       <item value="Forward" />
       <item value="Forwarder" />
-      <item value="particular" />
-      <item value="nuke" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="299" />
+        <entry key="ENGLISH" value="300" />
       </map>
     </option>
   </component>
