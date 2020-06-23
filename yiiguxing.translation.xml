@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Valid" />
       <item value="把所有设置为空" />
       <item value="把所有置为空" />
       <item value="destructively" />
@@ -50,12 +51,11 @@
       <item value="Album" />
       <item value="conjunction" />
       <item value="Forward" />
-      <item value="Forwarder" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="300" />
+        <entry key="ENGLISH" value="301" />
       </map>
     </option>
   </component>
