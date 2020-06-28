@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="supported" />
+      <item value="SPLINE" />
       <item value="圆角矩形" />
       <item value="round" />
       <item value="unsupported" />
@@ -12,7 +14,6 @@
       <item value="semici" />
       <item value="环形" />
       <item value="半圆" />
-      <item value="SPLINE" />
       <item value="上下圆弧" />
       <item value="下圆弧" />
       <item value="上、下圆弧" />
@@ -50,12 +51,11 @@
       <item value="把所有置为空" />
       <item value="destructively" />
       <item value="更换设置" />
-      <item value="更换表盘" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="320" />
+        <entry key="ENGLISH" value="321" />
       </map>
     </option>
   </component>
