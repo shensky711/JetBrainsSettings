@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="圆角矩形" />
+      <item value="round" />
       <item value="unsupported" />
       <item value="不支持的" />
       <item value=" rectangle" />
@@ -49,13 +51,11 @@
       <item value="destructively" />
       <item value="更换设置" />
       <item value="更换表盘" />
-      <item value="切换表盘" />
-      <item value="assignedId" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="318" />
+        <entry key="ENGLISH" value="320" />
       </map>
     </option>
   </component>
