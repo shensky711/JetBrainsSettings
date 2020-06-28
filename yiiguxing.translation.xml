@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The diagram text combine" />
+      <item value="图文" />
+      <item value="仪表盘" />
+      <item value="DOUBLE" />
       <item value="zooking" />
       <item value="定时任务" />
       <item value="Valid" />
@@ -47,15 +51,11 @@
       <item value="分配表" />
       <item value="saturation" />
       <item value="order" />
-      <item value="exists" />
-      <item value="是否存在" />
-      <item value="require" />
-      <item value="Album" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="303" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="305" />
       </map>
     </option>
   </component>
