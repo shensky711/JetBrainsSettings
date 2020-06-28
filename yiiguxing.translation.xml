@@ -1,9 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unsupported" />
+      <item value="不支持的" />
+      <item value=" rectangle" />
+      <item value="矩形" />
+      <item value="semicircle" />
+      <item value="上半圆" />
+      <item value="semici" />
+      <item value="环形" />
+      <item value="半圆" />
+      <item value="SPLINE" />
+      <item value="上下圆弧" />
+      <item value="下圆弧" />
+      <item value="上、下圆弧" />
+      <item value="上圆弧" />
+      <item value="MEDIUM" />
       <item value="LARGE" />
       <item value="medium" />
-      <item value="MEDIUM" />
       <item value="Rectangle" />
       <item value="长方形" />
       <item value="Spline" />
@@ -37,25 +51,11 @@
       <item value="更换表盘" />
       <item value="切换表盘" />
       <item value="assignedId" />
-      <item value="assigned id" />
-      <item value="assignedid" />
-      <item value="assigned" />
-      <item value="订阅" />
-      <item value="Subscription ID" />
-      <item value="订阅 id" />
-      <item value="订阅者 id" />
-      <item value="Subscriber" />
-      <item value="订阅者" />
-      <item value="订阅号" />
-      <item value="Registered" />
-      <item value="注册 id" />
-      <item value="注册 " />
-      <item value="connecting" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="310" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="318" />
       </map>
     </option>
   </component>
