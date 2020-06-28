@@ -1,8 +1,30 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="The diagram text combine" />
+      <item value="LARGE" />
+      <item value="medium" />
+      <item value="MEDIUM" />
+      <item value="Rectangle" />
+      <item value="长方形" />
+      <item value="Spline" />
+      <item value="strip" />
+      <item value="CIRCLE" />
+      <item value="RING" />
+      <item value="strip-type" />
+      <item value="条形" />
+      <item value="条形码" />
+      <item value="条状" />
+      <item value="长条" />
+      <item value="RECTANGULAR" />
+      <item value="Utilitarian Small" />
+      <item value="plain text" />
+      <item value="plain" />
+      <item value=" square" />
+      <item value="正方形" />
+      <item value="square" />
+      <item value="SQUARE" />
       <item value="图文" />
+      <item value="The diagram text combine" />
       <item value="仪表盘" />
       <item value="DOUBLE" />
       <item value="zooking" />
@@ -29,33 +51,11 @@
       <item value="注册 id" />
       <item value="注册 " />
       <item value="connecting" />
-      <item value="正在连接" />
-      <item value="detach" />
-      <item value="坐标" />
-      <item value="不规则热区" />
-      <item value="previous" />
-      <item value="上一个" />
-      <item value="assign" />
-      <item value="分配到的 id" />
-      <item value="Assignment id" />
-      <item value="autogeneration" />
-      <item value="自动生成" />
-      <item value="Persistent" />
-      <item value="allocation" />
-      <item value="ip address allocation" />
-      <item value="地址分配" />
-      <item value="id 分配" />
-      <item value="物资分配" />
-      <item value="assigning" />
-      <item value="layered dynamic ID assigning" />
-      <item value="分配表" />
-      <item value="saturation" />
-      <item value="order" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="305" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="310" />
       </map>
     </option>
   </component>
