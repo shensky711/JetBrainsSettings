@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="InPrivate Browsing" />
+      <item value="隐私模式" />
       <item value="supported" />
       <item value="SPLINE" />
       <item value="圆角矩形" />
@@ -49,13 +51,11 @@
       <item value="Valid" />
       <item value="把所有设置为空" />
       <item value="把所有置为空" />
-      <item value="destructively" />
-      <item value="更换设置" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="321" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="323" />
       </map>
     </option>
   </component>
