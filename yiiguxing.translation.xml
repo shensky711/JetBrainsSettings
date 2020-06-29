@@ -1,6 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Preview" />
+      <item value="Graph" />
+      <item value="图表" />
+      <item value="图标" />
+      <item value="grapher" />
+      <item value="paragraph" />
+      <item value="graph" />
+      <item value="graphic" />
+      <item value="GRAPHIC" />
+      <item value="_GRAPHIC" />
+      <item value="进度值" />
+      <item value="进度" />
+      <item value="百分比" />
+      <item value="RANGED value" />
+      <item value="RANGED" />
+      <item value="rang" />
+      <item value="rangvalue" />
       <item value="InPrivate Browsing" />
       <item value="隐私模式" />
       <item value="supported" />
@@ -34,28 +51,11 @@
       <item value="条形码" />
       <item value="条状" />
       <item value="长条" />
-      <item value="RECTANGULAR" />
-      <item value="Utilitarian Small" />
-      <item value="plain text" />
-      <item value="plain" />
-      <item value=" square" />
-      <item value="正方形" />
-      <item value="square" />
-      <item value="SQUARE" />
-      <item value="图文" />
-      <item value="The diagram text combine" />
-      <item value="仪表盘" />
-      <item value="DOUBLE" />
-      <item value="zooking" />
-      <item value="定时任务" />
-      <item value="Valid" />
-      <item value="把所有设置为空" />
-      <item value="把所有置为空" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="323" />
+        <entry key="CHINESE" value="20" />
+        <entry key="ENGLISH" value="330" />
       </map>
     </option>
   </component>
