@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="paint" />
+      <item value="border" />
+      <item value="边框" />
+      <item value="生成" />
       <item value="The output will be the same as for DIFFERENCE_STYLE_WORDS_SINGLE_UNIT, except that if the text does not fit into the seven character limit then a shorter form will be used instead, e.g. &quot;1356d&quot; instead of &quot;1356 days&quot;." />
       <item value="shorter form " />
       <item value="Style for time differences shown using (possibly abbreviated) words, with only the most significant unit included, that should fit within the character limit for a short text field" />
@@ -47,15 +51,11 @@
       <item value="round" />
       <item value="unsupported" />
       <item value="不支持的" />
-      <item value=" rectangle" />
-      <item value="矩形" />
-      <item value="semicircle" />
-      <item value="上半圆" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="335" />
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="337" />
       </map>
     </option>
   </component>
