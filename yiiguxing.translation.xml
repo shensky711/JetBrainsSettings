@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SHORT SINGLE UNIT" />
+      <item value="SHORT_SINGLE_UNIT" />
+      <item value="STOPWATCH" />
       <item value="Private Mode" />
       <item value="隐私模式" />
       <item value="隐私数据" />
@@ -48,9 +51,6 @@
       <item value="Spline" />
       <item value="strip" />
       <item value="CIRCLE" />
-      <item value="RING" />
-      <item value="strip-type" />
-      <item value="条形" />
     </histories>
     <option name="languageScores">
       <map>
