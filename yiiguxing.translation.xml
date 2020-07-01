@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="匹配规则" />
       <item value="fake" />
       <item value="dummy data" />
       <item value="伪数据" />
@@ -50,12 +51,11 @@
       <item value="rang" />
       <item value="rangvalue" />
       <item value="InPrivate Browsing" />
-      <item value="supported" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="338" />
+        <entry key="ENGLISH" value="339" />
       </map>
     </option>
   </component>
