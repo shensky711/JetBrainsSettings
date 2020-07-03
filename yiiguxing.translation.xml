@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="离开" />
+      <item value="退场动画" />
+      <item value="退出舞台" />
+      <item value="登上舞台" />
+      <item value="登上历史舞台" />
+      <item value="退场" />
+      <item value="出场" />
+      <item value="ENTRANCE" />
+      <item value="出场动画" />
+      <item value="layer" />
+      <item value="响应式布局" />
+      <item value="响应式" />
       <item value="早已存在" />
       <item value="冲突" />
       <item value="绘制你想要的内容" />
@@ -39,23 +51,11 @@
       <item value="隐私数据" />
       <item value="隐私" />
       <item value="Preview" />
-      <item value="Graph" />
-      <item value="图表" />
-      <item value="图标" />
-      <item value="grapher" />
-      <item value="paragraph" />
-      <item value="graph" />
-      <item value="graphic" />
-      <item value="GRAPHIC" />
-      <item value="_GRAPHIC" />
-      <item value="进度值" />
-      <item value="进度" />
-      <item value="百分比" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="345" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="350" />
       </map>
     </option>
   </component>
