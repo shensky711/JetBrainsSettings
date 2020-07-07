@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gerrit" />
+      <item value="Cyclic" />
       <item value="consistency" />
       <item value="闰月" />
       <item value="Gregorian" />
@@ -49,8 +51,6 @@
       <item value="Style for time differences shown using (possibly abbreviated) words, with only the most significant unit included" />
       <item value="Style for time differences shown in a numeric fashion like a timer.  " />
       <item value="Style for time differences shown in a short alpha-numeric style, with up to two significant units included" />
-      <item value="Style for time differences shown in a short alpha-numeric style, with only the most significant unit included." />
-      <item value="半屏幕" />
     </histories>
     <option name="languageScores">
       <map>
