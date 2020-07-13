@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Minor" />
       <item value="minor" />
       <item value="major" />
       <item value="三个按钮" />
@@ -50,7 +51,6 @@
       <item value="dummy data" />
       <item value="伪数据" />
       <item value="counter-clockwise" />
-      <item value="clockwise" />
     </histories>
     <option name="languageScores">
       <map>
