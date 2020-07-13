@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="minor" />
+      <item value="major" />
+      <item value="三个按钮" />
+      <item value="两个按钮" />
+      <item value="一个按钮" />
+      <item value="single" />
       <item value="Hebrew calendar system" />
       <item value="started" />
       <item value="quoted" />
@@ -45,17 +51,11 @@
       <item value="伪数据" />
       <item value="counter-clockwise" />
       <item value="clockwise" />
-      <item value="paint" />
-      <item value="border" />
-      <item value="边框" />
-      <item value="生成" />
-      <item value="The output will be the same as for DIFFERENCE_STYLE_WORDS_SINGLE_UNIT, except that if the text does not fit into the seven character limit then a shorter form will be used instead, e.g. &quot;1356d&quot; instead of &quot;1356 days&quot;." />
-      <item value="shorter form " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="359" />
+        <entry key="ENGLISH" value="362" />
       </map>
     </option>
   </component>
