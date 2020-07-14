@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="添加特效" />
+      <item value="special effect" />
+      <item value="特效" />
+      <item value="效果" />
       <item value="次要的" />
       <item value="副标题" />
       <item value="Negative" />
@@ -47,15 +51,11 @@
       <item value="早已存在" />
       <item value="冲突" />
       <item value="绘制你想要的内容" />
-      <item value="Sets the string within which the time difference will be displayed. This is optional.  Within the text, ^1 will be replaced with the time difference, so for example to show a result like &quot;2 mins: meeting&quot; the surrounding text would be &quot;^1: meeting&quot;.  To use the ^ character within the text, escape it as ^^." />
-      <item value="weather" />
-      <item value="匹配规则" />
-      <item value="fake" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="364" />
+        <entry key="CHINESE" value="27" />
+        <entry key="ENGLISH" value="366" />
       </map>
     </option>
   </component>
