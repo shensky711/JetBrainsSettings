@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="次要的" />
+      <item value="副标题" />
+      <item value="Negative" />
       <item value="Minor" />
       <item value="minor" />
       <item value="major" />
@@ -48,14 +51,11 @@
       <item value="weather" />
       <item value="匹配规则" />
       <item value="fake" />
-      <item value="dummy data" />
-      <item value="伪数据" />
-      <item value="counter-clockwise" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="362" />
+        <entry key="ENGLISH" value="364" />
       </map>
     </option>
   </component>
