@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="无限制的" />
+      <item value="specification" />
+      <item value="want Height" />
+      <item value="wantHeight" />
       <item value="添加特效" />
       <item value="special effect" />
       <item value="特效" />
@@ -47,15 +51,11 @@
       <item value="出场动画" />
       <item value="layer" />
       <item value="响应式布局" />
-      <item value="响应式" />
-      <item value="早已存在" />
-      <item value="冲突" />
-      <item value="绘制你想要的内容" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="366" />
+        <entry key="ENGLISH" value="368" />
       </map>
     </option>
   </component>
