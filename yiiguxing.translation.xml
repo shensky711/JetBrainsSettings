@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="screenshot" />
+      <item value="截图" />
+      <item value="屏幕截图" />
+      <item value="capture snapshot" />
+      <item value="抓取快照" />
       <item value="resolve" />
       <item value="遮罩" />
       <item value="mask" />
@@ -46,16 +51,11 @@
       <item value="consistency" />
       <item value="闰月" />
       <item value="Gregorian" />
-      <item value="Foreground" />
-      <item value="用户没有注册" />
-      <item value="Register" />
-      <item value="注册一个新用户" />
-      <item value="用户注册" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="373" />
+        <entry key="CHINESE" value="28" />
+        <entry key="ENGLISH" value="376" />
       </map>
     </option>
   </component>
