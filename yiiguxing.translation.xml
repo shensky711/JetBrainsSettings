@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="遮罩" />
+      <item value="mask" />
       <item value="stuck" />
       <item value="reorder" />
       <item value="重新排列" />
@@ -49,13 +51,11 @@
       <item value="注册一个新用户" />
       <item value="用户注册" />
       <item value="register" />
-      <item value="registe" />
-      <item value="注册" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="371" />
+        <entry key="ENGLISH" value="372" />
       </map>
     </option>
   </component>
