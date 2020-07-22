@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" 正在截图中" />
+      <item value=" 正在截图" />
       <item value="synonym" />
       <item value="screenshot" />
       <item value="截图" />
@@ -49,13 +51,11 @@
       <item value="                    need_divider = true; " />
       <item value="gerrit" />
       <item value="Cyclic" />
-      <item value="consistency" />
-      <item value="闰月" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="28" />
-        <entry key="ENGLISH" value="376" />
+        <entry key="ENGLISH" value="377" />
       </map>
     </option>
   </component>
