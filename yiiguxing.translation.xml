@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="synonym" />
       <item value="screenshot" />
       <item value="截图" />
       <item value="屏幕截图" />
@@ -50,7 +51,6 @@
       <item value="Cyclic" />
       <item value="consistency" />
       <item value="闰月" />
-      <item value="Gregorian" />
     </histories>
     <option name="languageScores">
       <map>
