@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lossless" />
+      <item value="nonexistent" />
+      <item value="后缀" />
+      <item value="match" />
       <item value="缓存" />
       <item value="传递" />
       <item value="unsubscribe" />
@@ -47,15 +51,11 @@
       <item value="want Height" />
       <item value="wantHeight" />
       <item value="添加特效" />
-      <item value="special effect" />
-      <item value="特效" />
-      <item value="效果" />
-      <item value="次要的" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="383" />
+        <entry key="ENGLISH" value="386" />
       </map>
     </option>
   </component>
