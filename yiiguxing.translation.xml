@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Justifies" />
       <item value="编辑器" />
       <item value=" Animation is not    necessarily complete." />
       <item value=" Animation is not          * necessarily complete." />
@@ -50,12 +51,11 @@
       <item value="velocity" />
       <item value="exect" />
       <item value="exected" />
-      <item value="无限制的" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="387" />
+        <entry key="ENGLISH" value="388" />
       </map>
     </option>
   </component>
