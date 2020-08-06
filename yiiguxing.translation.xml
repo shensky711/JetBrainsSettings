@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="settling" />
+      <item value="竖线的" />
+      <item value="Horizontal" />
+      <item value="横向" />
       <item value="darkness" />
       <item value="多余的" />
       <item value="消除多余" />
@@ -47,15 +51,11 @@
       <item value="点击同意按钮，即表示你同意上述内容及" />
       <item value="点击“同意”，即表示你同意上述内容及" />
       <item value="combine" />
-      <item value="d" />
-      <item value="decore" />
-      <item value="supplement" />
-      <item value="terms" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="390" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="393" />
       </map>
     </option>
   </component>
