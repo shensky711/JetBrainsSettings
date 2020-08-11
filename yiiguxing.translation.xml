@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="border" />
+      <item value="st" />
+      <item value="描边" />
+      <item value="outline" />
+      <item value="轮廓" />
       <item value="fire" />
       <item value="block" />
       <item value="屏蔽" />
@@ -46,16 +51,11 @@
       <item value="屏幕截图" />
       <item value="capture snapshot" />
       <item value="抓取快照" />
-      <item value="resolve" />
-      <item value="遮罩" />
-      <item value="mask" />
-      <item value="stuck" />
-      <item value="reorder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="395" />
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="399" />
       </map>
     </option>
   </component>
