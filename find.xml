@@ -25,8 +25,8 @@
     <mask>*.gradle</mask>
     <mask>*.aidl</mask>
     <mask>*.JAVA</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.kt</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
