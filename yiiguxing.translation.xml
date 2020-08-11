@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fire" />
       <item value="block" />
       <item value="屏蔽" />
       <item value="初始位置" />
@@ -50,7 +51,6 @@
       <item value="mask" />
       <item value="stuck" />
       <item value="reorder" />
-      <item value="重新排列" />
     </histories>
     <option name="languageScores">
       <map>
