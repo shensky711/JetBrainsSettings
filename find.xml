@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.aidl" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -23,10 +24,10 @@
     <mask>*.GRADLE</mask>
     <mask>*.</mask>
     <mask>*.gradle</mask>
-    <mask>*.aidl</mask>
     <mask>*.JAVA</mask>
     <mask>*.java</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
+    <mask>*.aidl</mask>
   </component>
 </application>
