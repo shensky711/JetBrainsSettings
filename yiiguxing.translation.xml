@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stroke" />
+      <item value="stroje" />
       <item value="Generator" />
       <item value="border" />
       <item value="st" />
@@ -49,8 +51,6 @@
       <item value="synonym" />
       <item value="screenshot" />
       <item value="截图" />
-      <item value="屏幕截图" />
-      <item value="capture snapshot" />
     </histories>
     <option name="languageScores">
       <map>
