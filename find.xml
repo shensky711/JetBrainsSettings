@@ -26,7 +26,7 @@
     <mask>*.JAVA</mask>
     <mask>*.java</mask>
     <mask>*.kt</mask>
-    <mask>*.xml</mask>
     <mask>*.aidl</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
