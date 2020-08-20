@@ -1,6 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="数字艺术" />
+      <item value="analog" />
+      <item value="health" />
+      <item value="功能表盘" />
+      <item value="Arts" />
+      <item value="艺术" />
+      <item value="artistic" />
+      <item value="healthful" />
+      <item value="健康型" />
+      <item value="Artistic" />
+      <item value="艺术型" />
+      <item value="functional" />
+      <item value="Functional" />
+      <item value="功能型" />
+      <item value="功能" />
+      <item value="description" />
+      <item value="这是一段表盘简介，描述这个设计创意等" />
+      <item value="文件的路径" />
+      <item value="相对路径" />
+      <item value="category" />
       <item value="stroke" />
       <item value="stroje" />
       <item value="Generator" />
@@ -31,31 +51,11 @@
       <item value="nonexistent" />
       <item value="后缀" />
       <item value="match" />
-      <item value="缓存" />
-      <item value="传递" />
-      <item value="unsubscribe" />
-      <item value="subscribe" />
-      <item value="subscribe to" />
-      <item value="订阅" />
-      <item value="Subscribe" />
-      <item value="订阅按钮" />
-      <item value="particular" />
-      <item value="不同应用" />
-      <item value="FREEFORM" />
-      <item value="Use of the keyword 'volatile' is general used to fine tune a Java application, and therefore, requires a good expertise of the Java Memory Model. Moreover, its range of action is somewhat misknown. Therefore, the volatile keyword should not be used for maintenance purpose and portability." />
-      <item value=" Moreover, its range of action is somewhat misknown. Therefore, the volatile keyword should not be used for maintenance purpose and portability." />
-      <item value=" general used to fine tune a Java application" />
-      <item value=" controversial" />
-      <item value=" 正在截图中" />
-      <item value=" 正在截图" />
-      <item value="synonym" />
-      <item value="screenshot" />
-      <item value="截图" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="399" />
+        <entry key="CHINESE" value="35" />
+        <entry key="ENGLISH" value="411" />
       </map>
     </option>
   </component>
