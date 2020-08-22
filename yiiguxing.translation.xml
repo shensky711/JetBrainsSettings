@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="abort" />
+      <item value="第一次启动" />
       <item value="scrim" />
       <item value="Scrims" />
       <item value="desserts" />
@@ -49,13 +51,11 @@
       <item value="fire" />
       <item value="block" />
       <item value="屏蔽" />
-      <item value="初始位置" />
-      <item value="最初的" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="414" />
+        <entry key="ENGLISH" value="416" />
       </map>
     </option>
   </component>
