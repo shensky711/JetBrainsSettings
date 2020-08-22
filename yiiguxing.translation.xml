@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scrim" />
+      <item value="Scrims" />
+      <item value="desserts" />
       <item value="kotlin" />
       <item value="Propagate" />
       <item value="Pythagorean theorem" />
@@ -48,9 +51,6 @@
       <item value="屏蔽" />
       <item value="初始位置" />
       <item value="最初的" />
-      <item value="settling" />
-      <item value="竖线的" />
-      <item value="Horizontal" />
     </histories>
     <option name="languageScores">
       <map>
