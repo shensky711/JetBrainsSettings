@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="kotlin" />
       <item value="Propagate" />
       <item value="Pythagorean theorem" />
       <item value="勾股定理" />
@@ -50,7 +51,6 @@
       <item value="settling" />
       <item value="竖线的" />
       <item value="Horizontal" />
-      <item value="横向" />
     </histories>
     <option name="languageScores">
       <map>
