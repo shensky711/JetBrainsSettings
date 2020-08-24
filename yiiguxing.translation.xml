@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="比他大的" />
       <item value="incremental" />
       <item value="covers" />
       <item value="advised" />
@@ -50,12 +51,11 @@
       <item value="st" />
       <item value="描边" />
       <item value="outline" />
-      <item value="轮廓" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="416" />
+        <entry key="ENGLISH" value="417" />
       </map>
     </option>
   </component>
