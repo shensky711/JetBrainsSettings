@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="incremental" />
+      <item value="covers" />
+      <item value="advised" />
       <item value="abort" />
       <item value="第一次启动" />
       <item value="scrim" />
@@ -48,9 +51,6 @@
       <item value="描边" />
       <item value="outline" />
       <item value="轮廓" />
-      <item value="fire" />
-      <item value="block" />
-      <item value="屏蔽" />
     </histories>
     <option name="languageScores">
       <map>
