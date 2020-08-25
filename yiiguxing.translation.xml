@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="幅度" />
+      <item value="切换动画" />
+      <item value="有动画的转场" />
+      <item value="转场动画" />
+      <item value="转场" />
+      <item value="appropriate" />
+      <item value="arbitrary" />
       <item value="Alive Photo" />
       <item value="consecutive" />
       <item value="represent" />
@@ -44,18 +51,11 @@
       <item value="功能型" />
       <item value="功能" />
       <item value="description" />
-      <item value="这是一段表盘简介，描述这个设计创意等" />
-      <item value="文件的路径" />
-      <item value="相对路径" />
-      <item value="category" />
-      <item value="stroke" />
-      <item value="stroje" />
-      <item value="Generator" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="418" />
+        <entry key="ENGLISH" value="421" />
       </map>
     </option>
   </component>
