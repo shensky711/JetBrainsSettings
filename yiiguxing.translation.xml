@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="蒙版" />
+      <item value="mask" />
       <item value="响应者" />
       <item value="拖走" />
       <item value="出场动画" />
@@ -49,13 +51,11 @@
       <item value="healthful" />
       <item value="健康型" />
       <item value="Artistic" />
-      <item value="艺术型" />
-      <item value="functional" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="426" />
+        <entry key="ENGLISH" value="428" />
       </map>
     </option>
   </component>
