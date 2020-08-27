@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="specify" />
+      <item value="指定" />
+      <item value="你必须声明更新周期" />
+      <item value="你必须声明" />
       <item value="uncompressed" />
       <item value="compression" />
       <item value="hierarchical" />
@@ -47,15 +51,11 @@
       <item value="illegal" />
       <item value="数字艺术" />
       <item value="analog" />
-      <item value="health" />
-      <item value="功能表盘" />
-      <item value="Arts" />
-      <item value="艺术" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="429" />
+        <entry key="ENGLISH" value="431" />
       </map>
     </option>
   </component>
