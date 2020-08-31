@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="require" />
+      <item value="REQUIRE" />
       <item value="specify" />
       <item value="指定" />
       <item value="你必须声明更新周期" />
@@ -49,8 +51,6 @@
       <item value="bezier curve" />
       <item value="贝塞尔曲线" />
       <item value="illegal" />
-      <item value="数字艺术" />
-      <item value="analog" />
     </histories>
     <option name="languageScores">
       <map>
