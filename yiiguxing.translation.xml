@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="internal" />
+      <item value="内部的" />
+      <item value="必须声明以下几种组合的数据中的一种" />
+      <item value="必须声明以下几种组合的数据" />
+      <item value="可能的组合" />
+      <item value="可能的选项" />
+      <item value="子类型" />
+      <item value="细分" />
+      <item value="复杂图表" />
+      <item value="图块" />
+      <item value="graphic" />
+      <item value="视觉丰富" />
+      <item value="Use graphic templates to display visually rich content on a variety of watch faces, including the Infograph, Infograph Modular, and Solar Dial faces." />
+      <item value="Bezel" />
       <item value="电量" />
       <item value="Gauge" />
       <item value=" small flat " />
@@ -8,7 +22,6 @@
       <item value="standar body" />
       <item value="standar" />
       <item value="Utilitarian" />
-      <item value="图块" />
       <item value="图文" />
       <item value="Illustrated" />
       <item value="图文并茂" />
@@ -38,24 +51,11 @@
       <item value="synchronously" />
       <item value="幅度" />
       <item value="切换动画" />
-      <item value="有动画的转场" />
-      <item value="转场动画" />
-      <item value="转场" />
-      <item value="appropriate" />
-      <item value="arbitrary" />
-      <item value="Alive Photo" />
-      <item value="consecutive" />
-      <item value="represent" />
-      <item value="mark" />
-      <item value="比他大的" />
-      <item value="incremental" />
-      <item value="covers" />
-      <item value="advised" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="439" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="447" />
       </map>
     </option>
   </component>
