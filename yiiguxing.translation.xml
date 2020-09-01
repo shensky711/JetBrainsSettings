@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="图块" />
+      <item value="图文" />
+      <item value="Illustrated" />
+      <item value="图文并茂" />
+      <item value="图文模块" />
       <item value="Smoothness" />
       <item value="smoothness" />
       <item value="平滑度" />
@@ -46,16 +51,11 @@
       <item value="desserts" />
       <item value="kotlin" />
       <item value="Propagate" />
-      <item value="Pythagorean theorem" />
-      <item value="勾股定理" />
-      <item value="直角三角形" />
-      <item value="直角边" />
-      <item value="三角形边长" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="434" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="437" />
       </map>
     </option>
   </component>
