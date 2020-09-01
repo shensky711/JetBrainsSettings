@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Utilitarian" />
       <item value="图块" />
       <item value="图文" />
       <item value="Illustrated" />
@@ -50,12 +51,11 @@
       <item value="Scrims" />
       <item value="desserts" />
       <item value="kotlin" />
-      <item value="Propagate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="437" />
+        <entry key="ENGLISH" value="438" />
       </map>
     </option>
   </component>
