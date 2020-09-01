@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Smoothness" />
+      <item value="smoothness" />
+      <item value="平滑度" />
+      <item value="smoothing" />
+      <item value="smoothing " />
+      <item value="smoothing coefficient" />
+      <item value="平滑系数" />
       <item value="require" />
       <item value="REQUIRE" />
       <item value="specify" />
@@ -44,18 +51,11 @@
       <item value="直角三角形" />
       <item value="直角边" />
       <item value="三角形边长" />
-      <item value="边长" />
-      <item value="cubic" />
-      <item value="radians" />
-      <item value="rotate" />
-      <item value="bezier curve" />
-      <item value="贝塞尔曲线" />
-      <item value="illegal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="431" />
+        <entry key="CHINESE" value="38" />
+        <entry key="ENGLISH" value="434" />
       </map>
     </option>
   </component>
