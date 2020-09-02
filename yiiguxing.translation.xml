@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Category" />
+      <item value="类型" />
       <item value="require" />
       <item value="resource" />
       <item value="version" />
@@ -49,13 +51,11 @@
       <item value="mask" />
       <item value="响应者" />
       <item value="拖走" />
-      <item value="出场动画" />
-      <item value="synchronously" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="447" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="448" />
       </map>
     </option>
   </component>
