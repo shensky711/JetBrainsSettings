@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bezel" />
+      <item value="SCREEN_LOCK" />
       <item value="Category" />
       <item value="类型" />
       <item value="require" />
@@ -49,8 +51,6 @@
       <item value="asset" />
       <item value="蒙版" />
       <item value="mask" />
-      <item value="响应者" />
-      <item value="拖走" />
     </histories>
     <option name="languageScores">
       <map>
