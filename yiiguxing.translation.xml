@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="require" />
+      <item value="resource" />
+      <item value="version" />
       <item value="internal" />
       <item value="内部的" />
       <item value="必须声明以下几种组合的数据中的一种" />
@@ -33,7 +36,6 @@
       <item value="smoothing " />
       <item value="smoothing coefficient" />
       <item value="平滑系数" />
-      <item value="require" />
       <item value="REQUIRE" />
       <item value="specify" />
       <item value="指定" />
@@ -49,8 +51,6 @@
       <item value="拖走" />
       <item value="出场动画" />
       <item value="synchronously" />
-      <item value="幅度" />
-      <item value="切换动画" />
     </histories>
     <option name="languageScores">
       <map>
