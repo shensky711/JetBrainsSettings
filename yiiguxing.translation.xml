@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hyphenation" />
       <item value="滑块" />
       <item value="弧度制" />
       <item value="弧度" />
@@ -50,12 +51,11 @@
       <item value="平滑系数" />
       <item value="REQUIRE" />
       <item value="specify" />
-      <item value="指定" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="454" />
+        <entry key="ENGLISH" value="455" />
       </map>
     </option>
   </component>
