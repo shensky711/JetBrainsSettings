@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="滑块" />
+      <item value="弧度制" />
+      <item value="弧度" />
+      <item value="degrees" />
+      <item value=" rectangle" />
+      <item value="矩形" />
+      <item value="ring" />
+      <item value="圆环" />
       <item value="bezel" />
       <item value="SCREEN_LOCK" />
       <item value="Category" />
@@ -43,19 +51,11 @@
       <item value="REQUIRE" />
       <item value="specify" />
       <item value="指定" />
-      <item value="你必须声明更新周期" />
-      <item value="你必须声明" />
-      <item value="uncompressed" />
-      <item value="compression" />
-      <item value="hierarchical" />
-      <item value="asset" />
-      <item value="蒙版" />
-      <item value="mask" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="448" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="454" />
       </map>
     </option>
   </component>
