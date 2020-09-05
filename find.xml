@@ -25,9 +25,9 @@
     <mask>*.gradle</mask>
     <mask>*.JAVA</mask>
     <mask>*.KT</mask>
-    <mask>*.kt</mask>
     <mask>*.aidl</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
