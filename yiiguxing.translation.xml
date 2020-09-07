@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="样条曲线" />
+      <item value="spring" />
       <item value="colorful" />
       <item value="原图滤镜" />
       <item value="原图" />
@@ -49,13 +51,11 @@
       <item value="Bezel" />
       <item value="电量" />
       <item value="Gauge" />
-      <item value=" small flat " />
-      <item value="Modular" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="466" />
+        <entry key="ENGLISH" value="467" />
       </map>
     </option>
   </component>
