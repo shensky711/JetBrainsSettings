@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="colorful" />
+      <item value="原图滤镜" />
+      <item value="原图" />
+      <item value="mutate" />
+      <item value="去除饱和度" />
+      <item value="饱和度" />
+      <item value="desaturates" />
+      <item value="固定画布大小" />
+      <item value="画布大小" />
+      <item value="画布" />
+      <item value="自适应" />
       <item value="槽位" />
       <item value="三角形" />
       <item value="oval" />
@@ -40,22 +51,11 @@
       <item value="Gauge" />
       <item value=" small flat " />
       <item value="Modular" />
-      <item value="standar body" />
-      <item value="standar" />
-      <item value="Utilitarian" />
-      <item value="图文" />
-      <item value="Illustrated" />
-      <item value="图文并茂" />
-      <item value="图文模块" />
-      <item value="Smoothness" />
-      <item value="smoothness" />
-      <item value="平滑度" />
-      <item value="smoothing" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="458" />
+        <entry key="ENGLISH" value="466" />
       </map>
     </option>
   </component>
