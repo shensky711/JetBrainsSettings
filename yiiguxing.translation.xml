@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="空数据" />
+      <item value="降低透明度" />
+      <item value="降低颜色透明度" />
       <item value="样条曲线" />
       <item value="spring" />
       <item value="colorful" />
@@ -48,14 +51,11 @@
       <item value="graphic" />
       <item value="视觉丰富" />
       <item value="Use graphic templates to display visually rich content on a variety of watch faces, including the Infograph, Infograph Modular, and Solar Dial faces." />
-      <item value="Bezel" />
-      <item value="电量" />
-      <item value="Gauge" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="467" />
+        <entry key="ENGLISH" value="468" />
       </map>
     </option>
   </component>
