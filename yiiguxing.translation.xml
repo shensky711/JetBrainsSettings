@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Exclusive" />
       <item value="gray" />
       <item value="Union" />
       <item value="Intersect" />
@@ -50,7 +51,6 @@
       <item value="可能的组合" />
       <item value="可能的选项" />
       <item value="子类型" />
-      <item value="细分" />
     </histories>
     <option name="languageScores">
       <map>
