@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gray" />
       <item value="Union" />
       <item value="Intersect" />
       <item value="Subtract" />
@@ -50,7 +51,6 @@
       <item value="可能的选项" />
       <item value="子类型" />
       <item value="细分" />
-      <item value="复杂图表" />
     </histories>
     <option name="languageScores">
       <map>
