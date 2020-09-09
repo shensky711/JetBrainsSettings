@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="复制路径" />
+      <item value="解压路径" />
+      <item value="解压后路径" />
+      <item value="hierarchical" />
       <item value="Exclusive" />
       <item value="gray" />
       <item value="Union" />
@@ -47,15 +51,11 @@
       <item value="internal" />
       <item value="内部的" />
       <item value="必须声明以下几种组合的数据中的一种" />
-      <item value="必须声明以下几种组合的数据" />
-      <item value="可能的组合" />
-      <item value="可能的选项" />
-      <item value="子类型" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="470" />
+        <entry key="ENGLISH" value="471" />
       </map>
     </option>
   </component>
