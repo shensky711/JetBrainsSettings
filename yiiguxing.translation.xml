@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="supply" />
       <item value="Simulate" />
       <item value="模拟时钟" />
       <item value="variation" />
@@ -50,7 +51,6 @@
       <item value="圆环" />
       <item value="bezel" />
       <item value="SCREEN_LOCK" />
-      <item value="Category" />
     </histories>
     <option name="languageScores">
       <map>
