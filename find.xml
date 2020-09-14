@@ -22,12 +22,12 @@
     <mask>*.frag</mask>
     <mask>*.GRADLE</mask>
     <mask>*.</mask>
-    <mask>*.gradle</mask>
     <mask>*.JAVA</mask>
     <mask>*.KT</mask>
     <mask>*.aidl</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.kt</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
