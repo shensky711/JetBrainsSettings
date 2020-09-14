@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sad" />
+      <item value="未连接的" />
+      <item value="未添加的" />
+      <item value="LESS THAN" />
+      <item value="MORE THAN" />
+      <item value="COMPARE" />
+      <item value="COMPARE_STATE" />
       <item value="selected" />
       <item value="数量比较多" />
       <item value="rather than" />
@@ -18,7 +25,6 @@
       <item value="开始监听" />
       <item value="Unadded" />
       <item value="未添加的数据" />
-      <item value="未添加的" />
       <item value="未添加" />
       <item value="unadded" />
       <item value="unadd" />
@@ -45,17 +51,11 @@
       <item value="空数据" />
       <item value="降低透明度" />
       <item value="降低颜色透明度" />
-      <item value="样条曲线" />
-      <item value="spring" />
-      <item value="colorful" />
-      <item value="原图滤镜" />
-      <item value="原图" />
-      <item value="mutate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="487" />
+        <entry key="ENGLISH" value="490" />
       </map>
     </option>
   </component>
