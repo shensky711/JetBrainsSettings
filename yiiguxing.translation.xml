@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="功能" />
       <item value="sad" />
       <item value="未连接的" />
       <item value="未添加的" />
@@ -50,12 +51,11 @@
       <item value="缺口" />
       <item value="空数据" />
       <item value="降低透明度" />
-      <item value="降低颜色透明度" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="490" />
+        <entry key="ENGLISH" value="491" />
       </map>
     </option>
   </component>
