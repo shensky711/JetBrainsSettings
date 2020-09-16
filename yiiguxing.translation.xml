@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="second" />
       <item value="最后的一个" />
       <item value="最后的" />
       <item value="最后一个" />
@@ -50,12 +51,11 @@
       <item value="解压后路径" />
       <item value="hierarchical" />
       <item value="Exclusive" />
-      <item value="gray" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="494" />
+        <entry key="ENGLISH" value="495" />
       </map>
     </option>
   </component>
