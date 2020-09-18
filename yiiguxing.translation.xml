@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="actural" />
+      <item value="actual" />
+      <item value="expected" />
+      <item value="期望的" />
+      <item value="真实的状态" />
       <item value="second" />
       <item value="最后的一个" />
       <item value="最后的" />
@@ -46,16 +51,11 @@
       <item value="up tp date" />
       <item value="overlay" />
       <item value="覆盖" />
-      <item value="复制路径" />
-      <item value="解压路径" />
-      <item value="解压后路径" />
-      <item value="hierarchical" />
-      <item value="Exclusive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="495" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="497" />
       </map>
     </option>
   </component>
