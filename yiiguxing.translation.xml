@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="projection" />
       <item value="Composite" />
       <item value="合成" />
       <item value="There's nothing to gain from handling odd radius sizes, due to the optimizations I use" />
@@ -50,7 +51,6 @@
       <item value="尚未添加的" />
       <item value="supply" />
       <item value="Simulate" />
-      <item value="模拟时钟" />
     </histories>
     <option name="languageScores">
       <map>
