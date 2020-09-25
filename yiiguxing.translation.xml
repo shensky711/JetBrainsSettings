@@ -1,8 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="ratio" />
+      <item value="Lens" />
+      <item value="Glow" />
+      <item value="光晕" />
+      <item value="halo" />
+      <item value="光环" />
+      <item value="shadow" />
+      <item value="highlight" />
+      <item value="高光" />
+      <item value="hight light" />
+      <item value="fixed" />
+      <item value="可着色的" />
+      <item value="tintable" />
+      <item value="可染色的" />
+      <item value="tint" />
+      <item value="border" />
+      <item value="边框" />
+      <item value="shot" />
       <item value="镜头" />
+      <item value="ratio" />
       <item value="odd" />
       <item value="column" />
       <item value="transposed" />
@@ -34,28 +51,11 @@
       <item value="COMPARE_STATE" />
       <item value="selected" />
       <item value="数量比较多" />
-      <item value="rather than" />
-      <item value="数量比对方多" />
-      <item value="比 什么多" />
-      <item value="比什么多" />
-      <item value="ratherthan" />
-      <item value="rather" />
-      <item value="本地比远程多" />
-      <item value="error" />
-      <item value="thumbnail" />
-      <item value="缩略图" />
-      <item value="manifest" />
-      <item value="开始监听请求" />
-      <item value="开始监听" />
-      <item value="Unadded" />
-      <item value="未添加的数据" />
-      <item value="未添加" />
-      <item value="unadded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="503" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="511" />
       </map>
     </option>
   </component>
