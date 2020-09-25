@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ratio" />
       <item value="镜头" />
       <item value="odd" />
       <item value="column" />
@@ -50,12 +51,11 @@
       <item value="未添加的数据" />
       <item value="未添加" />
       <item value="unadded" />
-      <item value="unadd" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="502" />
+        <entry key="ENGLISH" value="503" />
       </map>
     </option>
   </component>
