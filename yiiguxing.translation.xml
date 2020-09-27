@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="镜片" />
       <item value="Lens" />
+      <item value="镜片" />
       <item value="Glow" />
       <item value="光晕" />
       <item value="halo" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="512" />
+        <entry key="ENGLISH" value="513" />
       </map>
     </option>
   </component>
