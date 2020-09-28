@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="合并" />
+      <item value="合并图层" />
+      <item value="变换" />
+      <item value="缩小照片" />
+      <item value="缩小" />
       <item value="Lens" />
       <item value="镜片" />
       <item value="Glow" />
@@ -46,16 +51,11 @@
       <item value="sad" />
       <item value="未连接的" />
       <item value="未添加的" />
-      <item value="LESS THAN" />
-      <item value="MORE THAN" />
-      <item value="COMPARE" />
-      <item value="COMPARE_STATE" />
-      <item value="selected" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="513" />
+        <entry key="ENGLISH" value="516" />
       </map>
     </option>
   </component>
