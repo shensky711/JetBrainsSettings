@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="industrail" />
+      <item value="career" />
       <item value="钻石" />
       <item value="magnitude" />
       <item value="spot" />
@@ -49,13 +51,11 @@
       <item value="最后一个" />
       <item value="最后的 " />
       <item value="response" />
-      <item value="Mutable" />
-      <item value="功能" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="518" />
+        <entry key="ENGLISH" value="519" />
       </map>
     </option>
   </component>
