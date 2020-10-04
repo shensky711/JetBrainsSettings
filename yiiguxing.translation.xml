@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Quad" />
       <item value="cube" />
       <item value="Attenuation" />
       <item value="Diamond" />
@@ -50,7 +51,6 @@
       <item value="期望的" />
       <item value="真实的状态" />
       <item value="second" />
-      <item value="最后的一个" />
     </histories>
     <option name="languageScores">
       <map>
