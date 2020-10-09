@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Swatch" />
       <item value="Quad" />
       <item value="cube" />
       <item value="Attenuation" />
@@ -50,7 +51,6 @@
       <item value="expected" />
       <item value="期望的" />
       <item value="真实的状态" />
-      <item value="second" />
     </histories>
     <option name="languageScores">
       <map>
