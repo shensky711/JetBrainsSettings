@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="副缩略图" />
       <item value="Swatch" />
       <item value="Quad" />
       <item value="cube" />
@@ -50,12 +51,11 @@
       <item value="actual" />
       <item value="expected" />
       <item value="期望的" />
-      <item value="真实的状态" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="519" />
+        <entry key="ENGLISH" value="521" />
       </map>
     </option>
   </component>
