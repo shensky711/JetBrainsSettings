@@ -1,8 +1,30 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="副缩略图" />
+      <item value="collapse" />
+      <item value="favorite" />
+      <item value="分隔符" />
+      <item value="divider" />
+      <item value="Collapse" />
+      <item value="Collapsi" />
+      <item value="Collap" />
+      <item value="折叠的" />
+      <item value="折叠" />
+      <item value="Collapsie" />
+      <item value="Collapsible" />
+      <item value="收起的" />
+      <item value="占位" />
+      <item value="favor" />
+      <item value="favori" />
+      <item value="favorit" />
+      <item value="喜欢" />
+      <item value="喜欢的" />
+      <item value="收藏品" />
+      <item value="收藏的" />
+      <item value="收藏" />
+      <item value="test" />
       <item value="Swatch" />
+      <item value="副缩略图" />
       <item value="Quad" />
       <item value="cube" />
       <item value="Attenuation" />
@@ -29,39 +51,22 @@
       <item value="高光" />
       <item value="hight light" />
       <item value="fixed" />
-      <item value="可着色的" />
-      <item value="tintable" />
-      <item value="可染色的" />
-      <item value="tint" />
-      <item value="border" />
-      <item value="边框" />
-      <item value="shot" />
-      <item value="镜头" />
-      <item value="ratio" />
-      <item value="odd" />
-      <item value="column" />
-      <item value="transposed" />
-      <item value="projection" />
-      <item value="Composite" />
-      <item value="合成" />
-      <item value="There's nothing to gain from handling odd radius sizes, due to the optimizations I use" />
-      <item value="高斯模糊" />
-      <item value="alive" />
-      <item value="actural" />
-      <item value="actual" />
-      <item value="expected" />
-      <item value="期望的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="521" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="530" />
       </map>
     </option>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
-    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="4e7ecd23edd56f56" />
