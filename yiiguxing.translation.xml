@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="匹配" />
+      <item value="match" />
+      <item value="打印" />
+      <item value="Mutual" />
+      <item value="expect" />
       <item value="actual" />
       <item value="等分" />
       <item value="分母" />
@@ -46,16 +51,11 @@
       <item value="Lens" />
       <item value="镜片" />
       <item value="Glow" />
-      <item value="光晕" />
-      <item value="halo" />
-      <item value="光环" />
-      <item value="shadow" />
-      <item value="highlight" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="531" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="533" />
       </map>
     </option>
   </component>
