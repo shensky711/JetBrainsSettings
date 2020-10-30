@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="等分" />
+      <item value="分母" />
       <item value="collapse" />
       <item value="favorite" />
       <item value="分隔符" />
@@ -49,13 +51,11 @@
       <item value="shadow" />
       <item value="highlight" />
       <item value="高光" />
-      <item value="hight light" />
-      <item value="fixed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="530" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="531" />
       </map>
     </option>
   </component>
