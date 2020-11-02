@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Collapse" />
+      <item value="长按可拖动排序" />
+      <item value="favorite" />
       <item value="匹配" />
       <item value="match" />
       <item value="打印" />
@@ -10,10 +13,8 @@
       <item value="等分" />
       <item value="分母" />
       <item value="collapse" />
-      <item value="favorite" />
       <item value="分隔符" />
       <item value="divider" />
-      <item value="Collapse" />
       <item value="Collapsi" />
       <item value="Collap" />
       <item value="折叠的" />
@@ -50,12 +51,11 @@
       <item value="缩小" />
       <item value="Lens" />
       <item value="镜片" />
-      <item value="Glow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="533" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="534" />
       </map>
     </option>
   </component>
