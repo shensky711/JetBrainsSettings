@@ -30,7 +30,7 @@
     <mask>*java</mask>
     <mask>*.glsl</mask>
     <mask>*.gradle</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
