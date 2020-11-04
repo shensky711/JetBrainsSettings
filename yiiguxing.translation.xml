@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Recommend" />
+      <item value="gallery" />
+      <item value="recommend" />
       <item value="优先级" />
       <item value="自定义" />
       <item value="rim" />
@@ -48,13 +51,10 @@
       <item value="ray" />
       <item value="industrail" />
       <item value="career" />
-      <item value="钻石" />
-      <item value="magnitude" />
-      <item value="spot" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
+        <entry key="CHINESE" value="79" />
         <entry key="ENGLISH" value="536" />
       </map>
     </option>
