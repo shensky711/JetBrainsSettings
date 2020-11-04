@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="row" />
       <item value="Recommend" />
       <item value="gallery" />
       <item value="recommend" />
@@ -50,11 +51,10 @@
       <item value="Diamond" />
       <item value="ray" />
       <item value="industrail" />
-      <item value="career" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
+        <entry key="CHINESE" value="80" />
         <entry key="ENGLISH" value="536" />
       </map>
     </option>
