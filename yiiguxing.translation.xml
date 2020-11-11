@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="相邻" />
       <item value="axis" />
       <item value="frustum" />
       <item value="Share Setting" />
@@ -50,12 +51,11 @@
       <item value="收藏品" />
       <item value="收藏的" />
       <item value="收藏" />
-      <item value="test" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="538" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="539" />
       </map>
     </option>
   </component>
