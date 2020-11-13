@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rotate" />
       <item value="important" />
       <item value="paragraph" />
       <item value="相邻" />
@@ -50,11 +51,10 @@
       <item value="favorit" />
       <item value="喜欢" />
       <item value="喜欢的" />
-      <item value="收藏品" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="96" />
+        <entry key="CHINESE" value="97" />
         <entry key="ENGLISH" value="539" />
       </map>
     </option>
