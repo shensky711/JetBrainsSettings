@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="不确定的尺寸" />
+      <item value="不确定的" />
+      <item value="不确定" />
+      <item value="尺寸不确定" />
+      <item value="尺寸不确定的" />
       <item value="keyguard" />
       <item value="pincushion distortion" />
       <item value="GRADIENT" />
@@ -46,16 +51,11 @@
       <item value="divider" />
       <item value="Collapsi" />
       <item value="Collap" />
-      <item value="折叠的" />
-      <item value="折叠" />
-      <item value="Collapsie" />
-      <item value="Collapsible" />
-      <item value="收起的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="540" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="541" />
       </map>
     </option>
   </component>
