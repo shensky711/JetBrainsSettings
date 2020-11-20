@@ -29,8 +29,8 @@
     <mask>*xml</mask>
     <mask>*java</mask>
     <mask>*.gradle</mask>
-    <mask>*.glsl</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.glsl</mask>
   </component>
 </application>

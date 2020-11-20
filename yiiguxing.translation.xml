@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="upsample" />
+      <item value="downsampled" />
       <item value="Permissive" />
       <item value="指定区域" />
       <item value="分离" />
@@ -49,12 +51,10 @@
       <item value="actual" />
       <item value="等分" />
       <item value="分母" />
-      <item value="collapse" />
-      <item value="分隔符" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
+        <entry key="CHINESE" value="108" />
         <entry key="ENGLISH" value="541" />
       </map>
     </option>
