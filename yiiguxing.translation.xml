@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Aspect ratio" />
+      <item value="Aspect" />
+      <item value="宽高比" />
       <item value="upsample" />
       <item value="downsampled" />
       <item value="Permissive" />
@@ -48,14 +51,11 @@
       <item value="打印" />
       <item value="Mutual" />
       <item value="expect" />
-      <item value="actual" />
-      <item value="等分" />
-      <item value="分母" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="541" />
+        <entry key="CHINESE" value="110" />
+        <entry key="ENGLISH" value="542" />
       </map>
     </option>
   </component>
