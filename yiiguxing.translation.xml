@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Colorful" />
+      <item value="colorful" />
+      <item value="color" />
+      <item value="渐变" />
+      <item value="Plain" />
       <item value="dodge" />
       <item value="Gyro" />
       <item value="plain" />
@@ -46,16 +51,11 @@
       <item value="distorted" />
       <item value="取消收藏" />
       <item value="添加收藏" />
-      <item value="favorite" />
-      <item value="expand" />
-      <item value="Collapse" />
-      <item value="长按可拖动排序" />
-      <item value="匹配" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="543" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="544" />
       </map>
     </option>
   </component>
