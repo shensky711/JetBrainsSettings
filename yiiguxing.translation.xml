@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If any attribute resource values are defined as public, this consumer will move all private attribute resource values to a private ^private-attr type, avoiding backwards compatibility issues with new apps running on old platforms. The Android platform ignores resource attributes it doesn't recognize, so an app developer can use new attributes in their layout XML files without worrying about versioning. This assumption actually breaks on older platforms. OEMs may add private attributes that are used internally. AAPT originally assigned all private attributes IDs immediately proceeding the public attributes' IDs. This means that on a newer Android platform, an ID previously assigned to a private attribute may end up assigned to a public attribute. App developers assume using the newer attribute is safe on older platforms because it will be ignored. Instead, the platform thinks the new attribute is an older, private attribute and will interpret it as such. This leads to unintended styling and exceptions thrown due to unexpected types. By moving the private attributes to a completely different type, this ID conflict will never occur." />
+      <item value="originally" />
       <item value="Colorful" />
       <item value="colorful" />
       <item value="color" />
@@ -49,12 +51,10 @@
       <item value="自定义" />
       <item value="rim" />
       <item value="distorted" />
-      <item value="取消收藏" />
-      <item value="添加收藏" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
+        <entry key="CHINESE" value="121" />
         <entry key="ENGLISH" value="544" />
       </map>
     </option>
