@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="vice" />
+      <item value="underlying" />
       <item value="获取最新配置" />
       <item value="miscellaneous" />
       <item value="preferences" />
@@ -49,12 +51,10 @@
       <item value="尺寸不确定" />
       <item value="尺寸不确定的" />
       <item value="keyguard" />
-      <item value="pincushion distortion" />
-      <item value="GRADIENT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
+        <entry key="CHINESE" value="151" />
         <entry key="ENGLISH" value="546" />
       </map>
     </option>
