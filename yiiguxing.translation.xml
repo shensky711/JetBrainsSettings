@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Intensity" />
+      <item value="contiguous" />
+      <item value="引擎" />
       <item value="直径" />
       <item value="unaware" />
       <item value="Ellipse" />
@@ -48,13 +51,10 @@
       <item value="宽高比" />
       <item value="upsample" />
       <item value="downsampled" />
-      <item value="Permissive" />
-      <item value="指定区域" />
-      <item value="分离" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="158" />
+        <entry key="CHINESE" value="161" />
         <entry key="ENGLISH" value="547" />
       </map>
     </option>
