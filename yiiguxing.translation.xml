@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="不可见" />
+      <item value="InVisibility" />
       <item value="harmony" />
       <item value="euclidean" />
       <item value="distinct" />
@@ -49,13 +51,11 @@
       <item value="Plain" />
       <item value="dodge" />
       <item value="Gyro" />
-      <item value="plain" />
-      <item value="装饰器" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="548" />
+        <entry key="CHINESE" value="180" />
+        <entry key="ENGLISH" value="549" />
       </map>
     </option>
   </component>
