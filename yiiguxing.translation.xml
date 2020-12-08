@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="uncompress" />
       <item value="Cosmic" />
       <item value="cosmic" />
       <item value="不可见" />
@@ -50,11 +51,10 @@
       <item value="colorful" />
       <item value="color" />
       <item value="渐变" />
-      <item value="Plain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="182" />
+        <entry key="CHINESE" value="183" />
         <entry key="ENGLISH" value="549" />
       </map>
     </option>
