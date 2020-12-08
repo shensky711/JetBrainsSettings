@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Number of reference frames each P-frame can use. The range is from 0-16." />
       <item value="uncompress" />
       <item value="Cosmic" />
       <item value="cosmic" />
@@ -50,11 +51,10 @@
       <item value="Colorful" />
       <item value="colorful" />
       <item value="color" />
-      <item value="渐变" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="183" />
+        <entry key="CHINESE" value="184" />
         <entry key="ENGLISH" value="549" />
       </map>
     </option>
