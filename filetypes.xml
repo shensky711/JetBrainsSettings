@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="webp" type="Image" />
+      <mapping pattern="dark_utils.glsl" type="PLAIN_TEXT" />
       <mapping pattern="item_share_view_pager" type="PLAIN_TEXT" />
       <mapping pattern="gradlew" type="PLAIN_TEXT" />
       <mapping ext="bp" type="PLAIN_TEXT" />
