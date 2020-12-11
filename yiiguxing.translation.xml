@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="浩瀚无垠" />
+      <item value="Cosmic" />
       <item value="flip" />
       <item value="捕获器" />
       <item value="capture" />
@@ -13,7 +15,6 @@
       <item value="expendable" />
       <item value="Number of reference frames each P-frame can use. The range is from 0-16." />
       <item value="uncompress" />
-      <item value="Cosmic" />
       <item value="cosmic" />
       <item value="不可见" />
       <item value="InVisibility" />
@@ -50,12 +51,11 @@
       <item value="anchor view" />
       <item value="anchor" />
       <item value="ancher" />
-      <item value="ripple" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="199" />
-        <entry key="ENGLISH" value="553" />
+        <entry key="CHINESE" value="201" />
+        <entry key="ENGLISH" value="554" />
       </map>
     </option>
   </component>
