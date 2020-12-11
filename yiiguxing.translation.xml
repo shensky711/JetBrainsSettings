@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="flip" />
       <item value="捕获器" />
       <item value="capture" />
       <item value="cap" />
@@ -50,11 +51,10 @@
       <item value="anchor" />
       <item value="ancher" />
       <item value="ripple" />
-      <item value="水波纹" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="197" />
+        <entry key="CHINESE" value="198" />
         <entry key="ENGLISH" value="553" />
       </map>
     </option>
