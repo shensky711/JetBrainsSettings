@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="restore" />
+      <item value="restorecon" />
       <item value="CRITICAL" />
       <item value="imagery" />
       <item value="描边" />
@@ -49,12 +51,10 @@
       <item value="swatches" />
       <item value="palette" />
       <item value="preserve" />
-      <item value="deferring" />
-      <item value="Upon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="209" />
+        <entry key="CHINESE" value="210" />
         <entry key="ENGLISH" value="556" />
       </map>
     </option>
