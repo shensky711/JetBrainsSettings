@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lookup" />
       <item value="Rotated" />
       <item value="restore" />
       <item value="restorecon" />
@@ -50,11 +51,10 @@
       <item value="miscellaneous" />
       <item value="preferences" />
       <item value="swatches" />
-      <item value="palette" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="214" />
+        <entry key="CHINESE" value="215" />
         <entry key="ENGLISH" value="556" />
       </map>
     </option>
