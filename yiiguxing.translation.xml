@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prev" />
+      <item value="前情回顾" />
+      <item value="持久化日志" />
+      <item value="不会丢失的日志" />
+      <item value="不会丢失的日子" />
+      <item value="不会丢失的" />
       <item value="timeStamp" />
       <item value="switches" />
       <item value="truncated" />
@@ -45,17 +51,11 @@
       <item value="引擎" />
       <item value="直径" />
       <item value="unaware" />
-      <item value="Ellipse" />
-      <item value="Cylinder" />
-      <item value="Cone" />
-      <item value="Capsule " />
-      <item value="vice" />
-      <item value="underlying" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="219" />
-        <entry key="ENGLISH" value="556" />
+        <entry key="CHINESE" value="221" />
+        <entry key="ENGLISH" value="557" />
       </map>
     </option>
   </component>
