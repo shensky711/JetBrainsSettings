@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="timeStamp" />
       <item value="switches" />
       <item value="truncated" />
       <item value="ellipsis" />
@@ -50,11 +51,10 @@
       <item value="Capsule " />
       <item value="vice" />
       <item value="underlying" />
-      <item value="获取最新配置" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="218" />
+        <entry key="CHINESE" value="219" />
         <entry key="ENGLISH" value="556" />
       </map>
     </option>
