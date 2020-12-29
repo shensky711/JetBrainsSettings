@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mod" />
       <item value="launcher" />
       <item value="橙色" />
       <item value="紫色" />
@@ -50,11 +51,10 @@
       <item value="cosmic" />
       <item value="不可见" />
       <item value="InVisibility" />
-      <item value="harmony" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="230" />
+        <entry key="CHINESE" value="231" />
         <entry key="ENGLISH" value="558" />
       </map>
     </option>
