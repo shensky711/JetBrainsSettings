@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="误差" />
+      <item value="Eliminate" />
+      <item value="消除误差" />
+      <item value="消除浮点误差" />
       <item value="恢复状态" />
       <item value="临时" />
       <item value="豁免" />
@@ -47,15 +51,11 @@
       <item value="quote" />
       <item value="fallback" />
       <item value="fraction" />
-      <item value="主动触发" />
-      <item value="expendable" />
-      <item value="Number of reference frames each P-frame can use. The range is from 0-16." />
-      <item value="uncompress" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="559" />
+        <entry key="CHINESE" value="233" />
+        <entry key="ENGLISH" value="560" />
       </map>
     </option>
   </component>
