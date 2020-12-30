@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="恢复状态" />
+      <item value="临时" />
+      <item value="豁免" />
       <item value="mod" />
       <item value="launcher" />
       <item value="橙色" />
@@ -48,14 +51,11 @@
       <item value="expendable" />
       <item value="Number of reference frames each P-frame can use. The range is from 0-16." />
       <item value="uncompress" />
-      <item value="cosmic" />
-      <item value="不可见" />
-      <item value="InVisibility" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="231" />
-        <entry key="ENGLISH" value="558" />
+        <entry key="CHINESE" value="232" />
+        <entry key="ENGLISH" value="559" />
       </map>
     </option>
   </component>
