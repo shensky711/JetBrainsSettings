@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="fraction" />
-      <item value="主动触发" />
-      <item value="expendable" />
-      <item value="Number of reference frames each P-frame can use. The range is from 0-16." />
-      <item value="uncompress" />
+      <item value="误差" />
+      <item value="Eliminate" />
+      <item value="消除误差" />
+      <item value="消除浮点误差" />
+      <item value="恢复状态" />
+      <item value="临时" />
+      <item value="豁免" />
+      <item value="mod" />
+      <item value="launcher" />
+      <item value="橙色" />
+      <item value="紫色" />
+      <item value="implement" />
+      <item value="Translate" />
+      <item value="translate" />
+      <item value="translation" />
+      <item value="lossless" />
+      <item value="LOSSY" />
+      <item value="significant" />
+      <item value="prev" />
+      <item value="前情回顾" />
+      <item value="持久化日志" />
+      <item value="不会丢失的日志" />
+      <item value="不会丢失的日子" />
+      <item value="不会丢失的" />
+      <item value="timeStamp" />
+      <item value="switches" />
+      <item value="truncated" />
+      <item value="ellipsis" />
+      <item value="lookup" />
+      <item value="Rotated" />
+      <item value="restore" />
+      <item value="restorecon" />
+      <item value="CRITICAL" />
+      <item value="imagery" />
+      <item value="描边" />
+      <item value="stroke" />
+      <item value="regardless" />
+      <item value="定制标题" />
+      <item value="ROUNDING" />
+      <item value="依赖" />
+      <item value="浩瀚无垠" />
       <item value="Cosmic" />
-      <item value="cosmic" />
-      <item value="不可见" />
-      <item value="InVisibility" />
-      <item value="harmony" />
-      <item value="euclidean" />
-      <item value="distinct" />
-      <item value="quantizer" />
-      <item value="怎么判断颜色相似度" />
-      <item value="confidence" />
-      <item value="Intensity" />
-      <item value="contiguous" />
-      <item value="引擎" />
-      <item value="直径" />
-      <item value="unaware" />
-      <item value="Ellipse" />
-      <item value="Cylinder" />
-      <item value="Cone" />
-      <item value="Capsule " />
-      <item value="vice" />
-      <item value="underlying" />
-      <item value="获取最新配置" />
-      <item value="miscellaneous" />
-      <item value="preferences" />
-      <item value="swatches" />
-      <item value="palette" />
-      <item value="preserve" />
-      <item value="deferring" />
-      <item value="Upon" />
-      <item value="Preserved" />
-      <item value="Deferred" />
-      <item value="very hao yong " />
-      <item value="english" />
-      <item value="anchor " />
-      <item value="anchor view" />
-      <item value="anchor" />
-      <item value="ancher" />
-      <item value="ripple" />
-      <item value="水波纹" />
-      <item value="增加饱和度" />
-      <item value="luminance" />
-      <item value="SATURATION " />
-      <item value="Rotate" />
-      <item value="If any attribute resource values are defined as public, this consumer will move all private attribute resource values to a private ^private-attr type, avoiding backwards compatibility issues with new apps running on old platforms. The Android platform ignores resource attributes it doesn't recognize, so an app developer can use new attributes in their layout XML files without worrying about versioning. This assumption actually breaks on older platforms. OEMs may add private attributes that are used internally. AAPT originally assigned all private attributes IDs immediately proceeding the public attributes' IDs. This means that on a newer Android platform, an ID previously assigned to a private attribute may end up assigned to a public attribute. App developers assume using the newer attribute is safe on older platforms because it will be ignored. Instead, the platform thinks the new attribute is an older, private attribute and will interpret it as such. This leads to unintended styling and exceptions thrown due to unexpected types. By moving the private attributes to a completely different type, this ID conflict will never occur." />
-      <item value="originally" />
+      <item value="flip" />
+      <item value="捕获器" />
+      <item value="capture" />
+      <item value="cap" />
+      <item value="截图" />
+      <item value="quote" />
+      <item value="fallback" />
+      <item value="fraction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="189" />
-        <entry key="ENGLISH" value="550" />
+        <entry key="CHINESE" value="233" />
+        <entry key="ENGLISH" value="560" />
       </map>
     </option>
   </component>
