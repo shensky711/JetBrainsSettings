@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="JUSTIFY" />
       <item value="obsolete" />
       <item value="consent" />
       <item value="container" />
@@ -50,7 +51,6 @@
       <item value="Privacy" />
       <item value="Dummy" />
       <item value="跑马灯" />
-      <item value="Latte" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,6 @@
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="4e7ecd23edd56f56" />
-        <option name="appKeyConfigured" value="true" />
       </youdao-translate>
     </option>
   </component>
