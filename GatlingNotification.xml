@@ -1,6 +1,6 @@
 <application>
   <component name="GatlingNotification">
-    <option name="lastRequestTime" value="1609725146565" />
+    <option name="lastRequestTime" value="1571304411607" />
     <option name="showHelpNotification" value="false" />
     <option name="notifications">
       <list>
@@ -68,7 +68,6 @@
           <option name="frequency" value="1" />
           <option name="id" value="5af2597ee3742f032b4d0654" />
           <option name="message" value="在体验过程中，如果有哪些 bug，或者有功能建议，请告诉我们哈~" />
-          <option name="remove" value="true" />
           <option name="startTime" value="1525832030000" />
           <option name="status" value="1" />
           <option name="title" value="各位大神早~" />
@@ -83,7 +82,6 @@
           <option name="frequency" value="1" />
           <option name="id" value="5af169abe3742f032b4d0651" />
           <option name="message" value="魅族15，一个时代的经典归来与使命复兴" />
-          <option name="remove" value="true" />
           <option name="startTime" value="1525770655000" />
           <option name="status" value="1" />
           <option name="title" value="魅族 15" />
@@ -98,7 +96,6 @@
           <option name="frequency" value="1" />
           <option name="id" value="5af2c8dee3742f032b4d0661" />
           <option name="message" value="小哥哥小姐姐们，刚吃完饭是不是很满足呢~那就安装最新插件体验一下吧~" />
-          <option name="remove" value="true" />
           <option name="startTime" value="1525860560000" />
           <option name="status" value="1" />
           <option name="title" value="Activity 模板功能发布啦" />
@@ -113,7 +110,6 @@
           <option name="frequency" value="1" />
           <option name="id" value="5af2ca8ee3742f032b4d0662" />
           <option name="message" value="小哥哥小姐姐们，刚吃完饭是不是很满足呢~那就安装最新插件体验一下吧~" />
-          <option name="remove" value="true" />
           <option name="startTime" value="1525860980000" />
           <option name="status" value="1" />
           <option name="title" value="Activity 模板功能发布啦" />
