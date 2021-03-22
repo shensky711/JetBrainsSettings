@@ -1,0 +1,121 @@
+<application>
+  <component name="GatlingNotification">
+    <option name="lastRequestTime" value="1571304411607" />
+    <option name="showHelpNotification" value="false" />
+    <option name="notifications">
+      <list>
+        <NotificationData>
+          <option name="commitUser" value="{&quot;uid&quot;:&quot;057e65db4b211b3a&quot;,&quot;displayName&quot;:&quot;苏有雄&quot;}" />
+          <option name="createAt" value="1524638165237" />
+          <option name="detailLink" value="http://es6.ruanyifeng.com/#docs/destructuring#%E5%AF%B9%E8%B1%A1%E7%9A%84%E8%A7%A3%E6%9E%84%E8%B5%8B%E5%80%BC" />
+          <option name="endTime" value="1524724551000" />
+          <option name="expired" value="true" />
+          <option name="frequency" value="1" />
+          <option name="id" value="5ae021d508af566bcb0caafe" />
+          <option name="message" value="对象的解构与数组有一个重要的不同。数组的元素是按次序排列的，变量的取值由它的位置决定" />
+          <option name="remove" value="true" />
+          <option name="startTime" value="1524638147000" />
+          <option name="status" value="1" />
+          <option name="title" value="公关控件" />
+          <option name="updateAt" value="1524638165237" />
+        </NotificationData>
+        <NotificationData>
+          <option name="createAt" value="1524539303181" />
+          <option name="detailLink" value="http://es6.ruanyifeng.com/#docs/destructuring#%E5%AF%B9%E8%B1%A1%E7%9A%84%E8%A7%A3%E6%9E%84%E8%B5%8B%E5%80%BC" />
+          <option name="endTime" value="1529424000000" />
+          <option name="expired" value="true" />
+          <option name="frequency" value="1" />
+          <option name="id" value="5ade9fa708af566bcb0caafc" />
+          <option name="message" value="对象的解构与数组有一个重要的不同。数组的元素是按次序排列的，变量的取值由它的位置决定" />
+          <option name="remove" value="true" />
+          <option name="startTime" value="1524024000000" />
+          <option name="status" value="1" />
+          <option name="updateAt" value="1524539303181" />
+        </NotificationData>
+        <NotificationData>
+          <option name="createAt" value="1524539262583" />
+          <option name="endTime" value="1529424000000" />
+          <option name="expired" value="true" />
+          <option name="frequency" value="1" />
+          <option name="id" value="5ade9f7e08af566bcb0caafb" />
+          <option name="message" value="上面代码的第一个例子，等号左边的两个变量的次序，与等号右边两个同名属性的次序不一致，但是对取值完全没有影响" />
+          <option name="remove" value="true" />
+          <option name="startTime" value="1523980800000" />
+          <option name="status" value="1" />
+          <option name="updateAt" value="1524539262583" />
+        </NotificationData>
+        <NotificationData>
+          <option name="commitUser" value="{&quot;uid&quot;:&quot;e50112715aa4522a&quot;,&quot;displayName&quot;:&quot;苏有雄&quot;}" />
+          <option name="createAt" value="1525676055828" />
+          <option name="detailLink" value="http://gitlab.meizu.com/Components/pages/blob/master/gatling/gatling_user_guide.md" />
+          <option name="endTime" value="1525708800000" />
+          <option name="expired" value="true" />
+          <option name="frequency" value="1" />
+          <option name="id" value="5aeff81767e2277ae85759f4" />
+          <option name="message" value="gatling让你编码更高效" />
+          <option name="remove" value="true" />
+          <option name="startTime" value="1525676047000" />
+          <option name="status" value="1" />
+          <option name="title" value="gatling发布啦" />
+          <option name="updateAt" value="1525676055828" />
+        </NotificationData>
+        <NotificationData>
+          <option name="commitUser" value="{&quot;uid&quot;:&quot;c10b574945d69629&quot;,&quot;displayName&quot;:&quot;陈航&quot;}" />
+          <option name="createAt" value="1525832062042" />
+          <option name="detailLink" value="" />
+          <option name="endTime" value="1525881600000" />
+          <option name="expired" value="true" />
+          <option name="frequency" value="1" />
+          <option name="id" value="5af2597ee3742f032b4d0654" />
+          <option name="message" value="在体验过程中，如果有哪些 bug，或者有功能建议，请告诉我们哈~" />
+          <option name="startTime" value="1525832030000" />
+          <option name="status" value="1" />
+          <option name="title" value="各位大神早~" />
+          <option name="updateAt" value="1525832062042" />
+        </NotificationData>
+        <NotificationData>
+          <option name="commitUser" value="{&quot;uid&quot;:&quot;c10b574945d69629&quot;,&quot;displayName&quot;:&quot;陈航&quot;}" />
+          <option name="createAt" value="1525770667921" />
+          <option name="detailLink" value="http://www.sohu.com/a/230306015_117844" />
+          <option name="endTime" value="1526572800000" />
+          <option name="expired" value="true" />
+          <option name="frequency" value="1" />
+          <option name="id" value="5af169abe3742f032b4d0651" />
+          <option name="message" value="魅族15，一个时代的经典归来与使命复兴" />
+          <option name="startTime" value="1525770655000" />
+          <option name="status" value="1" />
+          <option name="title" value="魅族 15" />
+          <option name="updateAt" value="1525770667921" />
+        </NotificationData>
+        <NotificationData>
+          <option name="commitUser" value="{&quot;uid&quot;:&quot;c10b574945d69629&quot;,&quot;displayName&quot;:&quot;陈航&quot;}" />
+          <option name="createAt" value="1525860574717" />
+          <option name="detailLink" value="http://gitlab.meizu.com/Components/pages/blob/master/gatling/gatling_user_guide.md#34-activity-%E6%A8%A1%E6%9D%BF%E5%BF%AB%E9%80%9F%E6%8F%92%E5%85%A5" />
+          <option name="endTime" value="1525881600000" />
+          <option name="expired" value="true" />
+          <option name="frequency" value="1" />
+          <option name="id" value="5af2c8dee3742f032b4d0661" />
+          <option name="message" value="小哥哥小姐姐们，刚吃完饭是不是很满足呢~那就安装最新插件体验一下吧~" />
+          <option name="startTime" value="1525860560000" />
+          <option name="status" value="1" />
+          <option name="title" value="Activity 模板功能发布啦" />
+          <option name="updateAt" value="1525860753566" />
+        </NotificationData>
+        <NotificationData>
+          <option name="commitUser" value="{&quot;uid&quot;:&quot;c10b574945d69629&quot;,&quot;displayName&quot;:&quot;陈航&quot;}" />
+          <option name="createAt" value="1525861006211" />
+          <option name="detailLink" value="http://gitlab.meizu.com/Components/pages/blob/master/gatling/gatling_user_guide.md#34-activity-%E6%A8%A1%E6%9D%BF%E5%BF%AB%E9%80%9F%E6%8F%92%E5%85%A5" />
+          <option name="endTime" value="1525968000000" />
+          <option name="expired" value="true" />
+          <option name="frequency" value="1" />
+          <option name="id" value="5af2ca8ee3742f032b4d0662" />
+          <option name="message" value="小哥哥小姐姐们，刚吃完饭是不是很满足呢~那就安装最新插件体验一下吧~" />
+          <option name="startTime" value="1525860980000" />
+          <option name="status" value="1" />
+          <option name="title" value="Activity 模板功能发布啦" />
+          <option name="updateAt" value="1525861006211" />
+        </NotificationData>
+      </list>
+    </option>
+  </component>
+</application>
