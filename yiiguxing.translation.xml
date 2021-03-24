@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Equilibrium" />
+      <item value="bounciness" />
       <item value="interoperability" />
       <item value="quintic" />
       <item value="JUSTIFY" />
@@ -49,8 +51,6 @@
       <item value="webview" />
       <item value="条款展示" />
       <item value="隐私" />
-      <item value="policy" />
-      <item value="Privacy" />
     </histories>
     <option name="languageScores">
       <map>
