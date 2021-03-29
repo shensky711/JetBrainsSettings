@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.glsl" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -13,12 +14,12 @@
     <mask>*.frag</mask>
     <mask>*.json</mask>
     <mask>*.cpp</mask>
-    <mask>*.glsl</mask>
     <mask>*.mk</mask>
     <mask>*.xml````</mask>
     <mask>string*.xml</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.glsl</mask>
   </component>
 </application>
