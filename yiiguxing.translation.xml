@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="zoom out" />
+      <item value="zoomout" />
       <item value="TENSION" />
       <item value="loop" />
       <item value="displacement" />
@@ -49,8 +51,6 @@
       <item value="隐私协议" />
       <item value="协议政策" />
       <item value="agreement" />
-      <item value="法律条款" />
-      <item value="法律" />
     </histories>
     <option name="languageScores">
       <map>
