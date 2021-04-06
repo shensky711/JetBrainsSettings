@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TRANSCRIPT" />
+      <item value="test" />
+      <item value="transcript" />
       <item value="zoom out" />
       <item value="zoomout" />
       <item value="TENSION" />
@@ -48,20 +51,17 @@
       <item value="不能同时为空" />
       <item value="用户协议" />
       <item value="隐私政策" />
-      <item value="隐私协议" />
-      <item value="协议政策" />
-      <item value="agreement" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
+        <entry key="CHINESE" value="6" />
         <entry key="ENGLISH" value="150" />
       </map>
     </option>
   </component>
   <component name="Settings">
+    <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
-    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="4e7ecd23edd56f56" />
