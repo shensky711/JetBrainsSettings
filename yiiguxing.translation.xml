@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Forbid" />
+      <item value="Flywheel" />
+      <item value="Boost" />
       <item value="Motion" />
       <item value="算法优化" />
       <item value="优化算法" />
@@ -48,13 +51,10 @@
       <item value="square" />
       <item value="terms" />
       <item value="supplement" />
-      <item value="条款" />
-      <item value="组合" />
-      <item value="marks" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
+        <entry key="CHINESE" value="14" />
         <entry key="ENGLISH" value="151" />
       </map>
     </option>
