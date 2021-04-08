@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BZZZTT" />
       <item value="indefinitely" />
       <item value="Forbid" />
       <item value="Flywheel" />
@@ -50,11 +51,10 @@
       <item value="空格" />
       <item value="Agreement" />
       <item value="square" />
-      <item value="terms" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
+        <entry key="CHINESE" value="16" />
         <entry key="ENGLISH" value="151" />
       </map>
     </option>
