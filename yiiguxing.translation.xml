@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Estimator" />
       <item value="least squares" />
       <item value="coefficient" />
       <item value="coeff" />
@@ -50,11 +51,10 @@
       <item value="quintic" />
       <item value="JUSTIFY" />
       <item value="obsolete" />
-      <item value="consent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
+        <entry key="CHINESE" value="44" />
         <entry key="ENGLISH" value="152" />
       </map>
     </option>
