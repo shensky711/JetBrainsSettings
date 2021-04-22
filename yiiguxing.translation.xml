@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="超载" />
+      <item value="负载" />
       <item value="周期" />
       <item value="百分比" />
       <item value="Estimator" />
@@ -49,8 +51,6 @@
       <item value="displacement" />
       <item value="Equilibrium" />
       <item value="bounciness" />
-      <item value="interoperability" />
-      <item value="quintic" />
     </histories>
     <option name="languageScores">
       <map>
