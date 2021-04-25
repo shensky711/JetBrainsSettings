@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="query" />
       <item value="ENTRIES" />
       <item value="存在" />
       <item value="already" />
@@ -50,11 +51,10 @@
       <item value="ratio" />
       <item value="rate" />
       <item value="TRANSCRIPT" />
-      <item value="test" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
+        <entry key="CHINESE" value="49" />
         <entry key="ENGLISH" value="154" />
       </map>
     </option>
