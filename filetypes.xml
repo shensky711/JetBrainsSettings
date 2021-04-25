@@ -7,6 +7,7 @@
       <mapping ext="bp" type="PLAIN_TEXT" />
       <mapping ext="obj" type="PLAIN_TEXT" />
       <mapping ext="layout" type="PLAIN_TEXT" />
+      <mapping ext="db" type="SQL" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
