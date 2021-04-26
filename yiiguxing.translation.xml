@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="是否有效的记录" />
+      <item value="valid" />
+      <item value="isvalid" />
+      <item value="有效的" />
       <item value="Record" />
       <item value="如何快速判断两个文件内容相同" />
       <item value="same" />
@@ -47,15 +51,11 @@
       <item value="Boost" />
       <item value="Motion" />
       <item value="算法优化" />
-      <item value="优化算法" />
-      <item value="优化" />
-      <item value="optimize" />
-      <item value="Optimize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="155" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="157" />
       </map>
     </option>
   </component>
