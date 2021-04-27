@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="positional" />
       <item value="unknown" />
       <item value="无效的记录" />
       <item value="already archive" />
@@ -50,11 +51,10 @@
       <item value="mutate" />
       <item value="BZZZTT" />
       <item value="Forbid" />
-      <item value="Flywheel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
+        <entry key="CHINESE" value="59" />
         <entry key="ENGLISH" value="158" />
       </map>
     </option>
