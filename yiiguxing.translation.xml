@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transation" />
       <item value="RETIRING" />
       <item value="/**  * Coroutine scheduler (pool of shared threads) which primary target is to distribute dispatched coroutines over worker threads,  * including both CPU-intensive and blocking tasks.  *  * Current scheduler implementation has two optimization targets:  * * Efficiency in the face of communication patterns (e.g., actors communicating via channel)  * * Dynamic resizing to support blocking calls without re-dispatching coroutine to separate &quot;blocking&quot; thread pool  *  * ### Structural overview  *  * Scheduler consists of [corePoolSize] worker threads to execute CPU-bound tasks and up to [maxPoolSize] (lazily created) threads  * to execute blocking tasks. Every worker has local queue in addition to global scheduler queue and global queue  * has priority over local queue to avoid starvation of externally-submitted (e.g., from Android UI thread) tasks and work-stealing is implemented  * on top of that queues to provide even load distribution and illusion of centralized run queue.  *  * ### Scheduling  *  * When a coroutine is dispatched from within scheduler worker, it's placed into the head of worker run queue.  * If the head is not empty, the task from the head is moved to the tail. Though it is unfair scheduling policy,  * it effectively couples communicating coroutines into one and eliminates scheduling latency that arises from placing task to the end of the queue.  * Placing former head to the tail is necessary to provide semi-FIFO order, otherwise queue degenerates to stack.  * When a coroutine is dispatched from an external thread, it's put into the global queue.  *  * ### Work stealing and affinity  *  * To provide even tasks distribution worker tries to steal tasks from other workers queues before parking when his local queue is empty.  * A non-standard solution is implemented to provide tasks affinity: task may be stolen only if it's 'stale' enough (based on the value of [WORK_STEALING_TIME_RESOLUTION_NS]).  * For this purpose monotonic global clock ([System.nanoTime]) is used and every task has associated with it submission time.  * This approach shows outstanding results when coroutines are cooperative, but as downside scheduler now depends on high-resolution global clock  * which may limit scalability on NUMA machines.  *  * ### Dynamic resizing and support of blocking tasks  *  * To support possibly blocking tasks [TaskMode] and CPU quota (via [cpuPermits]) are used.  * To execute [TaskMode.NON_BLOCKING] tasks from the global queue or to steal tasks from other workers  * the worker should have CPU permit. When a worker starts executing [TaskMode.PROBABLY_BLOCKING] task,  * it releases its CPU permit, giving a hint to a scheduler that additional thread should be created (or awaken)  * if new [TaskMode.NON_BLOCKING] task will arrive. When a worker finishes executing blocking task, it executes  * all tasks from its local queue (including [TaskMode.NON_BLOCKING]) and then parks as retired without polling  * global queue or trying to steal new tasks. Such approach may slightly limit scalability (allowing more than [corePoolSize] threads  * to execute CPU-bound tasks at once), but in practice, it is not, significantly reducing context switches and tasks re-dispatching.  *  * @suppress **This is unstable API and it is subject to change.**  */" />
       <item value="ACQUIRED" />
@@ -50,11 +51,10 @@
       <item value="真正的消失" />
       <item value="真正的" />
       <item value="inactive" />
-      <item value="among" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
+        <entry key="CHINESE" value="75" />
         <entry key="ENGLISH" value="160" />
       </map>
     </option>
