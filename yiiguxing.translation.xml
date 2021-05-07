@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Over shoot" />
+      <item value="Overshoot" />
       <item value="Due" />
       <item value="Algorithm" />
       <item value="snap" />
@@ -49,12 +51,10 @@
       <item value="INFINITE" />
       <item value="lightup" />
       <item value="ribbon" />
-      <item value="excerpt" />
-      <item value="Tension lines" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
+        <entry key="CHINESE" value="70" />
         <entry key="ENGLISH" value="159" />
       </map>
     </option>
