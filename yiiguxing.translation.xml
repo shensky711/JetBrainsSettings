@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Spin" />
+      <item value="CPU-bound" />
       <item value="then start yielding to reduce CPU pressure, and finally start adaptive parking" />
       <item value="Spin on the volatile field with an empty loop in hope that new work will arrive" />
       <item value="transation" />
@@ -49,12 +51,10 @@
       <item value="coeff" />
       <item value="coffe" />
       <item value="boost" />
-      <item value="really" />
-      <item value="真正的消失" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
+        <entry key="CHINESE" value="79" />
         <entry key="ENGLISH" value="160" />
       </map>
     </option>
