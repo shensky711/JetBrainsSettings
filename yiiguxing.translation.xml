@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Subscribers" />
+      <item value="Subscriber" />
+      <item value="Subscribe" />
       <item value="Obsolete" />
       <item value="    'message': u'LINT ERROR: Lint found an issue registry (`androidx.annotation.experimental.lint.ExperimentalIssueRegistry`)      which did not specify the Lint API version it was compiled with.\n\n**     This means that the lint checks are likely not compatible.**\n\n     If you are the author of this lint check, make your lint `IssueRegistry` class contain\n\xa0\xa0override val api: Int = com.android.tools.lint.detector.api.CURRENT_API\nor from Java,\n\xa0\xa0@Override public int getApi() { return com.android.tools.lint.detector.api.ApiKt.CURRENT_API; }\n\nIf you are just using lint checks from a third party library you have no control over, you can disable these lint checks (if they misbehave) like this:\n\n\xa0\xa0\xa0\xa0android {\n\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0lintOptions {\n\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0disable &quot;UnsafeExperimentalUsageError&quot;,\n\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0&quot;UnsafeExperimentalUsageWarning&quot;\n\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0}\n\xa0\xa0\xa0\xa0}\n. ObsoleteLintCustomCheck'}] " />
       <item value="potentially" />
@@ -48,13 +51,10 @@
       <item value="待处理" />
       <item value="归档" />
       <item value="超载" />
-      <item value="负载" />
-      <item value="周期" />
-      <item value="百分比" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
+        <entry key="CHINESE" value="88" />
         <entry key="ENGLISH" value="161" />
       </map>
     </option>
