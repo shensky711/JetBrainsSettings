@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="尚未过期" />
+      <item value="过期" />
+      <item value="enqueue" />
+      <item value="unSchedule" />
+      <item value="Period" />
       <item value="scheduling" />
       <item value="scheduleing" />
       <item value="Subscribers" />
@@ -46,16 +51,11 @@
       <item value="query" />
       <item value="ENTRIES" />
       <item value="存在" />
-      <item value="already" />
-      <item value="输入文件" />
-      <item value="原始文件" />
-      <item value="未处理的目录" />
-      <item value="待处理" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="CHINESE" value="96" />
+        <entry key="ENGLISH" value="162" />
       </map>
     </option>
   </component>
