@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="手续费" />
       <item value="withdrawals" />
       <item value="withdraw" />
       <item value="step size" />
@@ -50,12 +51,11 @@
       <item value="Over shoot" />
       <item value="Overshoot" />
       <item value="Due" />
-      <item value="Algorithm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="163" />
       </map>
     </option>
   </component>
