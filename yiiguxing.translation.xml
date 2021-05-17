@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="session profit" />
+      <item value="session_profit" />
+      <item value="prevent" />
       <item value="QUANTITY" />
       <item value="'Converts the volume given in QUANTITY from USDT to the each coin's volume" />
       <item value="volatile" />
@@ -48,13 +51,10 @@
       <item value="水平的" />
       <item value="垂直的" />
       <item value="mOpaque" />
-      <item value="opaque" />
-      <item value="positional" />
-      <item value="unknown" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="111" />
+        <entry key="CHINESE" value="113" />
         <entry key="ENGLISH" value="162" />
       </map>
     </option>
