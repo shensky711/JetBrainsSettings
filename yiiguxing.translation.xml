@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="withdrawals" />
+      <item value="withdraw" />
       <item value="step size" />
       <item value="gained" />
       <item value="cooloff" />
@@ -49,12 +51,10 @@
       <item value="Overshoot" />
       <item value="Due" />
       <item value="Algorithm" />
-      <item value="snap" />
-      <item value="Scissors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="117" />
+        <entry key="CHINESE" value="119" />
         <entry key="ENGLISH" value="162" />
       </map>
     </option>
