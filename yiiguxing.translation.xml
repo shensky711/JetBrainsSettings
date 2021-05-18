@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TRAILING" />
       <item value="fee" />
       <item value="手续费" />
       <item value="withdrawals" />
@@ -21,7 +22,6 @@
       <item value="prices" />
       <item value="tickers" />
       <item value="bought" />
-      <item value="TRAILING" />
       <item value="advanced" />
       <item value="bilinear" />
       <item value="尚未过期" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
+        <entry key="CHINESE" value="122" />
         <entry key="ENGLISH" value="163" />
       </map>
     </option>
