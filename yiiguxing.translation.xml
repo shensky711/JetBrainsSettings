@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ITALIC" />
       <item value="TRAILING" />
       <item value="fee" />
       <item value="手续费" />
@@ -50,11 +51,10 @@
       <item value="ACQUIRED" />
       <item value="线程相关的" />
       <item value="Over shoot" />
-      <item value="Overshoot" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="122" />
+        <entry key="CHINESE" value="123" />
         <entry key="ENGLISH" value="163" />
       </map>
     </option>
